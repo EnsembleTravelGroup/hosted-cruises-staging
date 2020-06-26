@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feature issue="2001" feature_id="01">
+	<pub_date><![CDATA[January 2020]]></pub_date>
+	<supplier_id><![CDATA[amw]]></supplier_id>
+	<supplier_name><![CDATA[AmaWaterways]]></supplier_name>
+	
+	<lead><![CDATA[<strong>Fill Your Heart with Ama</strong>]]></lead>
+	<intro><![CDATA[
+		<p>Travelers often speak of leaving a piece of themselves behind in cities that have made their hearts skip a beat. But on an award-winning AmaWaterways river cruise, you won&rsquo;t ever return home with love lost. Instead, AmaWaterways makes it their personal mission to ensure your heart will grow.&nbsp;</p>
+		<p>&ldquo;Ama&rdquo; means love &ndash; and AmaWaterways puts love in everything they do. Family-owned and -operated, they pride themselves on their passion for river cruising, unparalleled service, exquisite <em>La Cha&icirc;ne des R&ocirc;tisseurs </em>dining, and their innovations, which range from staterooms with unique &ldquo;twin balconies&rdquo; to included shore excursions featuring active biking and hiking adventures to the AmaMagna, twice the width of traditional river cruise ships.&nbsp;</p>
+		<p>Since 2002, AmaWaterways has offered unforgettable river cruises aboard award-winning ships sailing legendary rivers through the heart of Europe, Asia and Africa. They do what they love every day, treating guests to journeys of a lifetime.&nbsp;</p>
+		<p>It all starts with the warm hearts of their extraordinary crew, who welcome you aboard by whisking your luggage away so your vacation can officially begin. Before you know it, your friendly Cruise Manager has begun greeting you by name, your chef has your favorite breakfast omelet in the skillet and your waiter has brought your morning cup of coffee just the way you like it &ndash; because it fills their hearts to surprise and delight you and to turn every moment you spend with them into a cherished memory.</p>
+	]]></intro>
+	
+	<tab tab_id="ships">
+		<tab_id>ships</tab_id>
+		<title><![CDATA[The Ships]]></title>
+		<icon>anchor</icon>
+		<content><![CDATA[
+			<p><strong>Your Floating Hotel Awaits</strong>&nbsp;</p>
+			<p>After AmaWaterways&rsquo; excursions earn your affection, your heart will swell as you&rsquo;re warmly welcomed &ldquo;back home&rdquo; &ndash; because you&rsquo;ve genuinely become a part of the AmaWaterways family. The Hotel Manager may hand you a refreshing chilled towel after your countryside bike ride or a hot herbal tea following your winter&rsquo;s trip to a local Christmas Market, because your ultimate comfort is one of their top priorities.&nbsp;</p>
+			<p>AmaWaterways&rsquo; award-winning ships are designed specifically to maximize every aspect of your onboard experience with elegant accommodations, comfortable public spaces and ample amenities. Whether you are relaxing in your spacious stateroom, taking a dip in the pool or meeting fellow guests over drinks at their complimentary &ldquo;Sip &amp; Sail&rdquo; cocktail hour, your 5-star floating hotel provides you with all the comforts and conveniences you need.&nbsp;</p>
+			<p>No matter which AmaWaterways ship you sail on, you&rsquo;ll be treated to an unforgettable experience.</p>
+		]]></content>
+		<img_src>http://www.ensemblehostedcruises.com/files/img/20/01/partner/ships.jpg</img_src>
+		<img_caption><![CDATA[The Ships]]></img_caption>
+		<class>active</class>
+	</tab>
+	
+	<tab tab_id="accommodations">
+		<tab_id>accommodations</tab_id>
+		<title><![CDATA[Accommodations]]></title>
+		<icon>bed</icon>
+		<content><![CDATA[
+			<p><strong>Every Room with a View &ndash; And Most with Two</strong>&nbsp;</p>
+			<p>As you close the door on a day filled with enriching experiences, your spacious stateroom should offer you more than just a good night&rsquo;s sleep. That&rsquo;s why AmaWaterways has thoughtfully transformed your room into a floating sanctuary &ndash; and the ultimate home away from home.&nbsp;</p>
+			<p>When you embark on a river cruise, the views are everything. And there&rsquo;s nowhere better to experience the romance of cities illuminated at night while on the Danube or the UNESCO-designated castle-laden Rhine than from the comfort of your signature twin-balcony stateroom, where both a French balcony and full outside balcony bring fresh air and postcard-worthy views.&nbsp;</p>
+			<p><strong>Your Retreat</strong><strong>&nbsp;</strong></p>
+			<ul>
+			<li>A place for everything with generous closet and storage space, as well as an in-room safe</li>
+			<li>Marble bathrooms with multi-jet shower, soothing bath and body products, cotton bathrobes, slippers and hairdryer</li>
+			<li>Desk/dressing table and comfortable sitting area</li>
+			<li>Entertainment-On-Demand, featuring Hollywood&rsquo;s newest releases and a selection of classic movies, news, sports and satellite TV, as well as a large selection of music channels</li>
+			<li>Complimentary water replenished daily</li>
+			<li>On some twin-balcony ships as well as on the AmaMagna, you&rsquo;ll find staterooms and suites with connecting doors, as well as triple and quadruple accommodations, making river cruising more convenient for groups and families&nbsp;</li>
+			</ul>
+			<br/>
+			<p><strong>The Suite Life</strong></p>
+			<p>Discover the added luxury of traveling in a suite. From incredible benefits, such as a larger sitting area and expansive bathrooms with a bathtub and shower, to enhanced personal space and unrivaled balcony views, the suites aboard their award-winning fleet offer a truly memorable experience. </p>
+		   ]]></content>
+		<img_src>http://www.ensemblehostedcruises.com/files/img/20/01/partner/accommodations.jpg</img_src>
+		<img_caption><![CDATA[Accommodations]]></img_caption>
+		<class></class>
+	</tab>
+	
+	<tab tab_id="dining">
+		<tab_id>dining</tab_id>
+		<title><![CDATA[Dining]]></title>
+		<icon>cutlery</icon>
+		<content><![CDATA[
+			<p><strong>Your Palate-Pleasing Adventure</strong></p>
+			<p>One of the most special parts of river cruising is indulging in delicious food from the region you&rsquo;re sailing through. You&rsquo;ll be treated &ndash; at every meal &ndash; to exquisite locally-sourced cuisine and artfully plated, dishes created by their passionate chefs. As a member of the prestigious international culinary society <em>La Cha</em><em>&Icirc;</em><em>ne des R</em><em>&ocirc;</em><em>tisseurs</em>, AmaWaterways offers guests an unforgettable experience enhanced by daily hand-selected complimentary wine chosen by acclaimed European sommeliers.&nbsp;</p>
+			<p>Indulge in exquisite regionally-inspired cuisine lovingly prepared using only the freshest local and seasonal ingredients sourced from destinations visited ashore.&nbsp;</p>
+			<p>Bountiful breakfasts include omelets made to order using cage-free eggs, freshly baked pastries and bread, fresh fruit and cereals. Lunch tempts with an array of fresh salads, soups and sandwiches. Evenings offer casual elegance with a range of delicious entrees, including filets of salmon, beef tenderloin and peppers expertly saut&eacute;ed and grilled. Appetizers and handmade desserts are artfully presented &ndash; while delicious vegetarian, low-sodium and gluten-free choices are available. Lunches and dinners are also paired with complimentary hand-selected wines, or beer or soft drinks if you prefer, because it is their goal to provide you with an unparalleled river cruise experience, right down to the smallest details and personalized to your individual tastes.&nbsp;</p>
+			<p>And during one extraordinary evening on board, you&rsquo;ll visit The Chef&rsquo;s Table specialty restaurant, the only venue of its kind on the rivers, for a truly unique culinary experience at no extra charge. Watch as the chef chops, sears and meticulously plates a multi-course tasting menu with professional finesse. The crux of the evening occurs as you raise your fork to your lips, delighting in the perfect balance of distinctive flavors &ndash; skillfully paired with hand-selected wines reflective of the places you visit &ndash; and you realize every bite tastes just as phenomenal as it looks.</p>
+		   ]]></content>
+		<img_src>http://www.ensemblehostedcruises.com/files/img/20/01/partner/dining.jpg</img_src>
+		<img_caption><![CDATA[Dining]]></img_caption>
+		<class></class>
+	</tab>
+	
+	<tab tab_id="activities">
+		<tab_id>activities</tab_id>
+		<title><![CDATA[Activities]]></title>
+		<icon>book</icon>
+		<content><![CDATA[
+			<p><strong>Explore the World Your Way</strong>&nbsp;</p>
+			<p>Imagine yourself within a Monet masterpiece as you step into his lovely gardens at Giverny; or walking down the long aisle with Maria at St. Michael&rsquo;s Church in Mondsee where the wedding scene in <em>The Sound of Music </em>was captured on film. What about the thrill of visiting Brașov&rsquo;s multi-towered Bran Castle, former prison of Vlad the Impaler&mdash;the inspiration for Bram Stoker&rsquo;s Dracula, as well as Dracula's birthplace, Sighișoara?&nbsp;</p>
+			<p>When traveling with AmaWaterways, you don&rsquo;t just pass through a destination&mdash;you experience it with all of your senses. Follow the routes of emperors and other legendary figures on creative and adventurous itineraries along timeless rivers, through inspiring countryside, historic capitals, fairytale towns and even out-of-the-way hotspots that locals favor. Carefully curated included excursions are available in every port of call and showcase the rich diversity of each place you visit. All are hosted by the most experienced and knowledgeable English-speaking local guides and Cruise Managers who have a genuine passion for world history and a real knack for bringing the past to life.&nbsp;</p>
+			<p><strong>Exclusive Special Interest Tours</strong>&nbsp;</p>
+			<p>Go beyond a city&rsquo;s must-see landmarks and immerse yourself in culture on AmaWaterways' exclusive Special Interest Tours. Get to know local artisans like a Belgian chocolatier in Ghent. Clink steins of Bavarian beer with Regensburg villagers. Sample D&uuml;rnstein&rsquo;s apricot delicacies from jam to dried fruit and brandy, or search for &ldquo;Black Diamond&rdquo; truffles in Avignon. These more intimate, authentic excursions are what keep past guests returning each year for more.</p>
+			<p><strong>Enhance Your Best Self</strong>&nbsp;</p>
+			<p>Just because you&rsquo;re on vacation doesn&rsquo;t mean your health and wellness have to take a holiday too. AmaWaterways accommodates every traveler who wishes to engage in programs designed to enhance their wellness while sailing and beyond from onboard fitness classes led by a professionally trained Wellness Host, to the sun-deck walking track and pool.&nbsp;</p>
+			<p>AmaWaterways is also mindful of your activities on shore. Their active hiking and biking excursions help ensure you&rsquo;ll get in your 10,000 daily steps&mdash;or pedals&mdash;while you leave your tracks behind in timeless cities, experiencing them from an exhilarating new perspective. And their Special Interest Tours offer epicurean adventures accommodating even the most health-conscious travelers. You can search for highly prized cholesterol-free truffles from Provence; taste delicate, antioxidant- and fiber-rich Wachau Valley apricots; and sip heart-healthy wines along the Rhine River, including aromatic, low-calorie Pinot Noirs.</p>
+		   ]]></content>
+		<img_src>http://www.ensemblehostedcruises.com/files/img/20/01/partner/activities.jpg</img_src>
+		<img_caption><![CDATA[Activities]]></img_caption>
+		<class></class>
+	</tab>
+	
+	<tab tab_id="family">
+		<tab_id>family</tab_id>
+		<title><![CDATA[Family]]></title>
+		<icon>group</icon>
+		<content><![CDATA[
+			<p><strong>Our Passion for Family Travel</strong>&nbsp;</p>
+			<p>Family-owned and operated, AmaWaterways places a huge emphasis on family &ndash; both in the warm, familial atmosphere of their shoreside offices and onboard teams, and by offering itineraries and innovations that help multi-generational families pass their passion for travel through generations.&nbsp;</p>
+			<p>With their variety of included shore excursions and award-winning dining with options for every palate, including familiar and always-available Western menu items like pizza and burgers at lunch and steak and French fries at dinner, their onboard experience caters well to families with older children. Play giant chess on the Sun Deck or a board game in the library, treat yourself to a soothing massage, take a dip in the heated sun-deck swimming pool, partake in ice cream socials and much, much more.&nbsp;</p>
+			<p>And with luxurious staterooms and suits with twin balconies as well as connecting staterooms and triple/quadruple accommodations on select ships, AmaWaterway&rsquo;s floating hotels are the perfect fit for families.</p>
+		]]></content>
+		<img_src>http://www.ensemblehostedcruises.com/files/img/20/01/partner/family.jpg</img_src>
+		<img_caption><![CDATA[Family]]></img_caption>
+		<class></class>
+	</tab>
+	
+	<tab tab_id="services">
+		<tab_id>services</tab_id>
+		<title><![CDATA[Onboard Services]]></title>
+		<icon>bell</icon>
+		<content><![CDATA[
+			<p><strong>An Unparalleled River Cruise Experience</strong><strong>&nbsp;</strong></p>
+			<p>Treat yourself to an unforgettable AmaWaterways river cruise as our extraordinary crew turns every mile you travel into your most cherished memory. The greatest luxury they offer is the peace of mind that your every need will be taken care of throughout your journey.&nbsp;</p>
+			<p><strong>WHAT'S INCLUDED</strong></p>
+			<ul>
+			<li>Elegantly appointed riverview staterooms and suites &ndash; most with signature twin balconies, French balconies or full balconies</li>
+			<li>Luxurious suites include added enhancements, such as larger sitting areas, expansive bathrooms and additional surprises</li>
+			<li>Experienced Cruise Manager who accompanies you throughout your cruise and land journey &ndash; unique in the industry</li>
+			<li>All meals on board, with complimentary unlimited wine, beer and soft drinks during lunch and dinner</li>
+			<li>Sip &amp; Sail cocktail hour with complimentary wine, beer and spirits</li>
+			<li>Welcome Cocktail, Welcome Dinner, <em>La Cha&icirc;ne des R&ocirc;tisseurs </em>Dinner, Captain&rsquo;s Cocktail and Gala Dinner</li>
+			<li>Entertainment-On-Demand in all staterooms and suites with complimentary high-speed internet, movies, music and English-language TV stations</li>
+			<li>Complimentary water always available</li>
+			<li>Unlimited complimentary Wi-Fi on board</li>
+			<li>Small guided group excursions with a variety of choices, including immersive</li>
+			<li>Special Interest Tours, and hiking and biking adventures</li>
+			<li>Complimentary bicycles and helmets, and Nordic walking sticks</li>
+			<li>Distinctive onboard programs, such as lectures, theme dinners, cooking demonstrations, music performances and afternoon/evening piano music</li>
+			<li>Wellness activities and classes led by a professionally trained Wellness Host</li>
+			<li>Expertly trained, all English-speaking staff</li>
+			</ul>
+		]]></content>
+		<img_src>http://www.ensemblehostedcruises.com/files/img/20/01/partner/services.jpg</img_src>
+		<img_caption><![CDATA[Onboard Services]]></img_caption>
+		<class></class>
+	</tab>
+	
+	<video>
+		<embed><![CDATA[
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/T0yOjQkL8mY?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+		]]></embed>
+	</video>
+</feature>

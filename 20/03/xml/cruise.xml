@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<cruise issue="YYQQ" cruise_id="cruiseID" type="featured">
+		<cruise_id><![CDATA[cruiseID]]></cruise_id>
+		<supplier_id><![CDATA[SupplierID]]></supplier_id>
+		<supplier_name><![CDATA[SupplierName]]></supplier_name>
+		
+		<title><![CDATA[cruiseTitle]]></title>
+		<ship><![CDATA[shipName]]></ship>
+		<category><![CDATA[shipCategory]]></category>
+		<pricing><![CDATA[Pricing is per person based on double occupancy]]></pricing>
+		
+		<departure_date><![CDATA[cruiseDeparture]]></departure_date> <!-- Mmm DD, YYYY -->
+		<duration><![CDATA[numberNights]]></duration>
+		<embarkation><![CDATA[embarkationPort]]></embarkation>
+		<disembarkation><![CDATA[disembarkationPort]]></disembarkation>
+		
+		<cost_us><![CDATA[costUS]]></cost_us>
+		<tax_us><![CDATA[taxUS]]></tax_us>
+		<currency_us><![CDATA[USD]]></currency_us>
+		
+		<cost_ca><![CDATA[costCA]]></cost_ca>
+		<tax_ca><![CDATA[taxCA]]></tax_ca>
+		<currency_ca><![CDATA[CAD]]></currency_ca>
+		
+		<lead><![CDATA[cruiseLead]]></lead>
+		<intro><![CDATA[  ]]></intro>
+		
+		<tab tab_id="01">
+			<tab_id>shoreEvent</tab_id>
+			<title><![CDATA[Shore Event]]></title>
+			<img>spacer.gif</img>
+			<icon>suitcase</icon>
+			<event_title><![CDATA[eventTitle]]></event_title>
+			<event_location><![CDATA[eventLocation]]></event_location>
+			<event_date><![CDATA[eventDate]]></event_date> <!-- Mmm DD, YYYY -->
+			<event_depart><![CDATA[Departs hmm]]></event_depart>
+			<event_return><![CDATA[Returns hmm]]></event_return>
+			<event_divider><![CDATA[ &nbsp;|&nbsp; ]]></event_divider>
+			<content><![CDATA[
+				<p></p>
+			]]></content>
+			<class><![CDATA[active]]></class>
+		</tab>
+		
+		<tab tab_id="02">
+			<tab_id>ports</tab_id>
+			<title><![CDATA[Ports]]></title>
+			<img>cruiseID.jpg</img>
+			<icon>anchor</icon>
+			<content><![CDATA[
+				<p></p>
+			]]></content>
+			<class><![CDATA[]]></class>
+		</tab>
+		
+		<tab tab_id="03">
+			<tab_id>amenities</tab_id>
+			<title><![CDATA[Amenities]]></title>
+			<img>spacer.gif</img>
+			<icon>plus-circle</icon>
+			<content><![CDATA[
+				<p></p>
+			]]></content>
+			<class><![CDATA[]]></class>
+		</tab>
+		
+		<tab tab_id="04">
+			<tab_id>inclusions</tab_id>
+			<title><![CDATA[Inclusions]]></title>
+			<img>spacer.gif</img>
+			<icon>check-circle</icon>
+			<content><![CDATA[
+				<p></p>
+			]]></content>
+			<class><![CDATA[]]></class>
+		</tab>
+		
+		<terms><![CDATA[cruiseTerms]]></terms>
+	</cruise>
+</root>

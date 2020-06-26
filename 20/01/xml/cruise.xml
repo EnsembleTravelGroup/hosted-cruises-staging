@@ -1,0 +1,1073 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<cruise issue="2001" cruise_id="01" type="featured">
+		<cruise_id><![CDATA[01]]></cruise_id>
+		<supplier_id><![CDATA[amw]]></supplier_id>
+		<supplier_name><![CDATA[AmaWaterways]]></supplier_name>
+		
+		<title><![CDATA[Melodies of the Danube]]></title>
+		<ship><![CDATA[AmaSerena]]></ship>
+		<category><![CDATA[Category E]]></category>
+		<pricing><![CDATA[Pricing is per person based on double occupancy]]></pricing>
+		
+		<departure_date><![CDATA[Oct 23, 2020]]></departure_date> <!-- Mmm DD, YYYY -->
+		<duration><![CDATA[7]]></duration>
+		<embarkation><![CDATA[Budapest, NL]]></embarkation>
+		<disembarkation><![CDATA[Vilshofen, DE]]></disembarkation>
+		
+		<cost_us><![CDATA[3,099]]></cost_us>
+		<tax_us><![CDATA[189]]></tax_us>
+		<currency_us><![CDATA[USD]]></currency_us>
+		
+		<cost_ca><![CDATA[4,021]]></cost_ca>
+		<tax_ca><![CDATA[]]></tax_ca>
+		<currency_ca><![CDATA[CAD]]></currency_ca>
+		
+		<lead><![CDATA[Journey along the legendary Danube and see firsthand why this storied river has inspired generations of artists, poets and musicians for centuries. Indulge your passion for timeless architecture and art in four magnificent capitals: Budapest, Bratislava, Vienna and Prague. Let the hills come alive with the sounds of music in Salzburg. Enjoy two AmaWaterways exclusive experiences: an exclusive evening castle visit in Grein, Austria, and a festive Oktoberfest celebration in charming Vilshofen, Germany. Cruise through the enchanting Strudengau Valley and let the melodies of the Danube carry you on a regal journey through time.]]></lead>
+		<intro><![CDATA[]]></intro>
+
+		<tab tab_id="01">
+			<tab_id>shoreEvent</tab_id>
+			<title><![CDATA[Shore Event]]></title>
+			<img>spacer.gif</img>
+			<icon>suitcase</icon>
+			<event_title><![CDATA[A Flavorful Taste Of The Rhine: Savor A Private Wine Dinner]]></event_title>
+			<event_location><![CDATA[Wachau Valley]]></event_location>
+			<event_date><![CDATA[Oct 27, 2020]]></event_date> <!-- Mmm DD, YYYY -->
+			<event_depart><![CDATA[Departs 13:30]]></event_depart>
+			<event_return><![CDATA[Returns 17:00]]></event_return>
+			<event_divider><![CDATA[&nbsp;|&nbsp;]]></event_divider>
+			<content><![CDATA[
+				<p>Austria&rsquo;s iconic Wachau Valley, a UNESCO World Heritage Site, is not only home to some of the most charming towns and villages but also stunning scenic views and lush, steeply terraced vineyards.</p>
+				<p><br />And one of the most enjoyable ways to revel in the area&rsquo;s great beauty is with a sip of its superb wine: the Wachau is one of the world&rsquo;s most exciting wine regions. Stretching along the Danube between the legendary towns of Melk and Krems, the region specializes in dry, white wines that are among the best in the world.</p>
+				<p><br />Locally grown Rieslings and Gr&uuml;ner Veltliners are especially renowned and you&rsquo;ll get the opportunity to sample a few. After you take the ship&rsquo;s morning tour &ldquo;Highlights of Durnstein &amp; Melk Abbey,&rdquo; your private Ensemble Experience will then depart from Melk for a scenic drive through the fabled Wachau Valley celebrated for its cultural landscape, fairy-tale-like settings and castles, as well as glorious vistas and vintages.</p>
+				<p><br />You&rsquo;ll visit the historic Klosterhof located in Spitz, one of the oldest and loveliest wine-making villages in the Wachau Valley. The atmospheric Austrian estate dates back to the 12th century and was once the wine press house of St. Gottweig Abbey. Here you&rsquo;ll be treated to a tasting event highlighting four distinctive vintages.</p>
+				<p><br />You&rsquo;ll also savor regional culinary flavors with a lunch of local specialties. Afterwards, you&rsquo;ll drive along the majestic Danube to meet your ship in Grein, where you can join the ship&rsquo;s tour of Greinburg Castle, Austria&rsquo;s oldest residential castle.</p>
+			]]></content>
+			<class><![CDATA[active]]></class>
+		</tab>
+
+		<tab tab_id="02">
+			<tab_id>ports</tab_id>
+			<title><![CDATA[Ports]]></title>
+			<img>01.jpg</img>
+			<icon>anchor</icon>
+			<content><![CDATA[
+				<p>Budapest &bull; Bratislava &bull; Vienna &bull; Weissenkirchen (Dürnstein/Melk) &bull; Grein &bull; Linz (Salzburg/Česky Krumlov) &bull; Passau &bull; Vilshofen</p>
+			]]></content>
+			<class><![CDATA[]]></class>
+		</tab>
+		
+		<tab tab_id="03">
+			<tab_id>amenities</tab_id>
+			<title><![CDATA[Amenities]]></title>
+			<img>spacer.gif</img>
+			<icon>plus-circle</icon>
+			<content><![CDATA[
+				<p>Multiple restaurant options, Fitness room, Massage and Hair Salon, Heated pool</p>
+			]]></content>
+			<class><![CDATA[]]></class>
+		</tab>
+		
+		<tab tab_id="04">
+			<tab_id>inclusions</tab_id>
+			<title><![CDATA[Inclusions]]></title>
+			<img>spacer.gif</img>
+			<icon>check-circle</icon>
+			<content><![CDATA[
+			<ul>
+			<li>Elegantly appointed river suites and staterooms &ndash; most with signature twin balconies</li>
+			<li>Fine dining with a variety of choices in multiple dining venues</li>
+			<li>Complimentary hand-selected wine, beer and soft drinks with lunch and dinner</li>
+			<li>Small group guided shore excursions with a variety of choices and activity levels in every port, including hikes and bike tours and immersive Special Interest Tours</li>
+			<li>Special visit to Greinburg Castle with a private reception, plus festive Oktoberfest celebration in Vilshofen &ndash; AmaWaterways exclusive experiences</li>
+			<li>Sip &amp; Sail cocktail hour with complimentary wine, beer, spirits and soft drinks</li>
+			<li>Welcome Cocktail, Welcome Diner, <em>La Cha&Icirc;ne des R&ocirc;tisseurs</em> Dinner, Captain&rsquo;s Cocktail and Gala Dinner</li>
+			<li>Professionally trained Wellness Host leading a variety of exercise classes</li>
+			<li>Enriching onboard entertainment</li>
+			<li>Unlimited complimentary Wi-Fi access</li>
+			</ul>
+			]]></content>
+			<class><![CDATA[]]></class>
+		</tab>
+		
+		<terms><![CDATA[
+		<strong>Terms and Conditions US</strong> <br/>
+		 Rates listed are per person in USD for cruise only. Dates listed are embarkation dates. Optional land programs, port charges and airfares are additional; please ask for details. Offer is valid on new bookings starting March 1, 2019 through sailing date and is combinable with current promotional offers available at the time of booking. Guests receive an exclusive shore excursion and cocktail reception on the select dates listed above. *A minimum number of staterooms/guests is required for the exclusive shore excursion and onboard cocktail reception. If the minimum is not met, guests will receive 150 per person onboard credit in lieu of the private tour. Offer is capacity controlled and subject to modification, reduction or withdrawal without notice. CST#2065452-20 <br/>
+		<br/>
+		<strong>Terms and Conditions CAD</strong> <br/>
+		 All cruise prices listed are in CAD and inclusive of port charges. Dates listed are embarkation dates. Optional land programs and airfares are additional; please ask for details. Offer is valid on new bookings starting January 1, 2020 through sailing date and is combinable with current promotional offers available at the time of booking. Guests receive an exclusive shore excursion and cocktail reception on the select dates listed above. *A minimum number of staterooms/ guests is required for the exclusive shore excursion and onboard cocktail reception. If the minimum is not met, guests will receive 150 in USD per person onboard credit in lieu of the private tour. Offer is capacity controlled and subject to modification, reduction or withdrawal without notice. CST#2065452-20
+		]]></terms>
+	</cruise>
+	
+		<cruise issue="2001" cruise_id="02" type="featured">
+		<cruise_id><![CDATA[02]]></cruise_id>
+		<supplier_id><![CDATA[amw]]></supplier_id>
+		<supplier_name><![CDATA[AmaWaterways]]></supplier_name>
+		
+		<title><![CDATA[Vineyards of the Rhine & Moselle]]></title>
+		<ship><![CDATA[AmaDante]]></ship>
+		<category><![CDATA[Category E]]></category>
+		<pricing><![CDATA[Pricing is per person based on double occupancy]]></pricing>
+		
+		<departure_date><![CDATA[May 21, 2020]]></departure_date> <!-- Mmm DD, YYYY -->
+		<duration><![CDATA[7]]></duration>
+		<embarkation><![CDATA[Amsterdam, NL]]></embarkation>
+		<disembarkation><![CDATA[Luxembourg, LU]]></disembarkation>
+		
+		<cost_us><![CDATA[3,199]]></cost_us>
+		<tax_us><![CDATA[189]]></tax_us>
+		<currency_us><![CDATA[USD]]></currency_us>
+		
+		<cost_ca><![CDATA[4,143]]></cost_ca>
+		<tax_ca><![CDATA[]]></tax_ca>
+		<currency_ca><![CDATA[CAD]]></currency_ca>
+		
+		<lead><![CDATA[Embrace the beauty, history and flavor of the Rhine and Moselle river valleys with their castles and iconic vineyards. Let history come to life at both the Reichsburg and Lahneck castles. Delight your palate with the region’s famed Riesling wines and Kölsch beer in cologne. Learn the legend of the Bernkasteler Doctor and the tales of Lorelei, and forever cherish the stories and flavors that will transform you during your journey.]]></lead>
+		<intro><![CDATA[]]></intro>
+
+		<!-- Shore event TBA -->
+		<tab tab_id="01">
+			<tab_id>shoreEvent</tab_id>
+			<title><![CDATA[Shore Event]]></title>
+			<img>spacer.gif</img>
+			<icon>suitcase</icon>
+			<event_title><![CDATA[A Flavorful Taste Of The Rhine: Savor A Private Wine Dinner]]></event_title>
+			<event_location><![CDATA[Rudesheim]]></event_location>
+			<event_date><![CDATA[May 24, 2020]]></event_date> <!-- Mmm DD, YYYY -->
+			<event_depart><![CDATA[Departs 18:30]]></event_depart>
+			<event_return><![CDATA[Returns 22:00]]></event_return>
+			<event_divider><![CDATA[&nbsp;|&nbsp;]]></event_divider>
+			<content><![CDATA[
+				<p>Gateway to the Upper Middle Rhine Valley, a UNESCO World Heritage site, Rudesheim is also renowned for terraced vineyards which produce excellent wines.</p>
+				<p>In the heart of its old town is the Drossel-gasse, the famous medieval lane lined with traditional taverns, colorful shops and R&uuml;desheimer Schloss &ndash; a cozy wine restaurant where your Ensemble Experience will treat you to an authentic taste of German Rhine culture.</p>
+				<p>A perfect ending to a day of sightseeing, this almost 300-year-old setting provides one of the best dining experiences in Rudesheim. Its historic charm as well as its timeless culinary traditions have made it a long-time favorite.</p>
+				<p>Here, delicious regional specialties are accompanied by local wines such as Riesling and Pinot Noir wines from the family Breuer vineyard and other local Rheingau winegrowers.</p>
+				<p>Everything about this inviting locale exudes warmth, from its amber lighting to its colorful stained glass to its flavorful wines and heartwarming menu.</p>
+				<p>For dinner you can savor local German flavors with favorites which may include homemade potato soup, followed by a typical Rheingau dish, such as trout cooked in melted butter and almonds with potatoes, or wild boar goulash with spaetzle; ending with dessert such as apple strudel with ice cream.</p>
+				<p>Of course the evening will be capped off with the famous Rudesheimer Kaffee, the specialty coffee which has become one of Rudesheim&rsquo;s historical highlights.</p>
+			]]></content>
+			<class><![CDATA[active]]></class>
+		</tab>
+
+		<tab tab_id="02">
+			<tab_id>ports</tab_id>
+			<title><![CDATA[Ports]]></title>
+			<img>02.jpg</img>
+			<icon>anchor</icon>
+			<content><![CDATA[
+				<p>Amsterdam &bull; Cologne &bull; Rüdesheim &bull; Mainz (Heidelberg) &bull; Lahnstein &bull; Cochem &bull; Berkastel &bull; Luxembourg</p>
+			]]></content>
+			<class><![CDATA[]]></class>
+		</tab>
+		
+		<tab tab_id="03">
+			<tab_id>amenities</tab_id>
+			<title><![CDATA[Amenities]]></title>
+			<img>spacer.gif</img>
+			<icon>plus-circle</icon>
+			<content><![CDATA[
+				<p>Multiple restaurant options, Fitness room, Massage and Hair Salon, Whirlpool</p>
+			]]></content>
+			<class><![CDATA[]]></class>
+		</tab>
+		
+		<tab tab_id="04">
+			<tab_id>inclusions</tab_id>
+			<title><![CDATA[Inclusions]]></title>
+			<img>spacer.gif</img>
+			<icon>check-circle</icon>
+			<content><![CDATA[
+				<ul>
+				<li>Elegantly appointed river suites and staterooms &ndash; most with signature twin balconies</li>
+				<li>Fine dining with a variety of choices in multiple dining venues</li>
+				<li>Complimentary hand-selected wine, beer and soft drinks with lunch and dinner</li>
+				<li>Small group guided shore excursions with a variety of choices and activity levels in every port, including hikes and bike tours and immersive Special Interest Tours</li>
+				<li>Sip &amp; Sail cocktail hour with complimentary wine, beer, spirits and soft drinks</li>
+				<li>Welcome Cocktail, Welcome Diner, <em>La Cha&Icirc;ne des R&ocirc;tisseurs</em> Dinner, Captain&rsquo;s Cocktail and Gala Dinner</li>
+				<li>Professionally trained Wellness Host leading a variety of exercise classes</li>
+				<li>Enriching onboard entertainment</li>
+				<li>Unlimited complimentary Wi-Fi access</li>
+				</ul>
+			]]></content>
+			<class><![CDATA[]]></class>
+		</tab>
+	
+		<terms><![CDATA[
+			<strong>Terms and Conditions US:</strong> <br/>Rates listed are per person in USD for cruise only. Dates listed are embarkation dates. Optional land programs, port charges and airfares are additional; please ask for details. Offer is valid on new bookings starting March 1, 2019 through sailing date and is combinable with current promotional offers available at the time of booking. Guests receive an exclusive shore excursion and cocktail reception on the select dates listed above. *A minimum number of staterooms/guests is required for the exclusive shore excursion and onboard cocktail reception. If the minimum is not met, guests will receive 150 per person onboard credit in lieu of the private tour. Offer is capacity controlled and subject to modification, reduction or withdrawal without notice. CST#2065452-20
+		<br/><br/>
+		<strong>Terms and Conditions CAD:</strong> <br/>All cruise prices listed are in CAD and inclusive of port charges. Dates listed are embarkation dates. Optional land programs and airfares are additional; please ask for details. Offer is valid on new bookings starting January 1, 2020 through sailing date and is combinable with current promotional offers available at the time of booking. Guests receive an exclusive shore excursion and cocktail reception on the select dates listed above. *A minimum number of staterooms/ guests is required for the exclusive shore excursion and onboard cocktail reception. If the minimum is not met, guests will receive 150 in USD per person onboard credit in lieu of the private tour. Offer is capacity controlled and subject to modification, reduction or withdrawal without notice. CST#2065452-20]]></terms>
+	</cruise>
+	
+	<cruise issue="2001" cruise_id="03" type="featured">
+		<cruise_id><![CDATA[03]]></cruise_id>
+		<supplier_id><![CDATA[amw]]></supplier_id>
+		<supplier_name><![CDATA[AmaWaterways]]></supplier_name>
+		
+		<title><![CDATA[Christmas Markets on the Danube]]></title>
+		<ship><![CDATA[AmaLea]]></ship>
+		<category><![CDATA[Category E]]></category>
+		<pricing><![CDATA[Pricing is per person based on double occupancy]]></pricing>
+		
+		<departure_date><![CDATA[Dec 12, 2020]]></departure_date> <!-- Mmm DD, YYYY -->
+		<duration><![CDATA[7]]></duration>
+		<embarkation><![CDATA[Budapest, HU]]></embarkation>
+		<disembarkation><![CDATA[Vilshofen, DE]]></disembarkation>
+		
+		<cost_us><![CDATA[3,299]]></cost_us>
+		<tax_us><![CDATA[189]]></tax_us>
+		<currency_us><![CDATA[USD]]></currency_us>
+		
+		<cost_ca><![CDATA[4,255]]></cost_ca>
+		<tax_ca><![CDATA[]]></tax_ca>
+		<currency_ca><![CDATA[CAD]]></currency_ca>
+		
+		<lead><![CDATA[Experience timeless holiday traditions and elegant pageantry in five countries and let iconic capital cities – Budapest, Bratislava, Vienna and Prague – dazzle you with their illuminated Christmas Markets. Wander the stalls of Europe’s most traditional markets, shopping for handcrafted gifts, sipping hot mulled wine and inhaling the fragrance of gingerbread and roasted chestnuts. Cherish the glory and magic of the season in grand European style as you cruise along the Danube.]]></lead>
+		<intro><![CDATA[]]></intro>
+
+		<tab tab_id="01">
+			<tab_id>shoreEvent</tab_id>
+			<title><![CDATA[Shore Event]]></title>
+			<img>spacer.gif</img>
+			<icon>suitcase</icon>
+			<event_title><![CDATA[Private Wine Tasting &amp; Lunch In The Iconic Wachau Valley]]></event_title>
+			<event_location><![CDATA[Wachau Valley]]></event_location>
+			<event_date><![CDATA[December 16, 2020]]></event_date> <!-- Mmm DD, YYYY -->
+			<event_depart><![CDATA[Departs 13:00]]></event_depart>
+			<event_return><![CDATA[Returns 17:00]]></event_return>
+			<event_divider><![CDATA[&nbsp;|&nbsp;]]></event_divider>
+			<content><![CDATA[
+				<p>Austria&rsquo;s iconic Wachau Valley, a UNESCO World Heritage Site, is not only home to some of the most charming towns and villages but also stunning scenic views and lush, steeply terraced vineyards.</p>
+				<p>And one of the most enjoyable ways to revel in the area&rsquo;s great beauty is with a sip of its superb wine: the Wachau is one of the world&rsquo;s most exciting wine regions.</p>
+				<p>Stretching along the Danube between the legendary towns of Melk and Krems, the region specializes in dry, white wines that are among the best in the world.</p>
+				<p>Locally grown Rieslings and Gr&uuml;ner Veltliners are especially renowned and you&rsquo;ll get the opportunity to sample a few.</p>
+				<p>Your Ensemble Experience begins with a scenic drive through the Wachau Valley celebrated for its cultural landscape, fairy-tale-like settings and castles, as well as glorious vistas and vintages.</p>
+				<p>You&rsquo;ll visit the historic Klosterhof located in Spitz, one of the oldest and loveliest wine-making villages in the Wachau Valley. The atmospheric Austrian estate dates back to the 12th century and was once the wine press house of St. Gottweig Abbey. Here you&rsquo;ll be treated to a tasting event highlighting four distinctive vintages.</p>
+				<p>You&rsquo;ll also savor regional culinary flavors with a lunch of local specialties.</p>
+				<p>Afterwards, you&rsquo;ll drive along the majestic Danube to visit Melk&rsquo;s magnificent Benedictine Abbey. A UNESCO World Heritage Site, it&rsquo;s one of Europe&rsquo;s most revered Baroque monasteries and houses countless medieval manuscripts.</p>
+			]]></content>
+			<class><![CDATA[active]]></class>
+		</tab>
+
+		<tab tab_id="02">
+			<tab_id>ports</tab_id>
+			<title><![CDATA[Ports]]></title>
+			<img>03.jpg</img>
+			<icon>anchor</icon>
+			<content><![CDATA[
+				<p>Budapest &bull; Bratislava &bull; Vienna &bull; Weissenkirchen (Durnstein) &bull; Melk &bull; Linz (Salzburg/Česky Krumlov) &bull; Passau &bull; Vilshofen</p>
+			]]></content>
+			<class><![CDATA[]]></class>
+		</tab>
+		
+		<tab tab_id="03">
+			<tab_id>amenities</tab_id>
+			<title><![CDATA[Amenities]]></title>
+			<img>spacer.gif</img>
+			<icon>plus-circle</icon>
+			<content><![CDATA[
+				<p>Multiple restaurant options, Fitness room, Massage and Hair Salon, Heated pool</p>
+			]]></content>
+			<class><![CDATA[]]></class>
+		</tab>
+
+		<tab tab_id="04">
+			<tab_id>inclusions</tab_id>
+			<title><![CDATA[Inclusions]]></title>
+			<img>spacer.gif</img>
+			<icon>check-circle</icon>
+			<content><![CDATA[
+		   <ul>
+        <li>Elegantly appointed river suites and staterooms &ndash; most with signature twin balconies</li>
+        <li>Fine dining with a variety of choices in multiple dining venues</li>
+        <li>Complimentary hand-selected wine, beer and soft drinks with lunch and dinner</li>
+        <li>Small group guided shore excursions with a variety of choices and activity levels in every port, including hikes and bike tours and immersive Special Interest Tours</li>
+        <li>Sip &amp; Sail cocktail hour with complimentary wine, beer, spirits and soft drinks</li>
+        <li>Welcome Cocktail, Welcome Diner, <em>La Cha&Icirc;ne des R&ocirc;tisseurs</em> Dinner, Captain&rsquo;s Cocktail and Gala Dinner</li>
+        <li>Professionally trained Wellness Host leading a variety of exercise classes</li>
+        <li>Enriching onboard entertainment</li>
+        <li>Unlimited complimentary Wi-Fi access</li>
+        </ul>
+			]]></content>
+			<class><![CDATA[]]></class>
+		</tab>
+
+		<terms><![CDATA[
+		<strong>Terms and Conditions US:</strong> <br/>Rates listed are per person in USD for cruise only. Dates listed are embarkation dates. Optional land programs, port charges and airfares are additional; please ask for details. Offer is valid on new bookings starting March 1, 2019 through sailing date and is combinable with current promotional offers available at the time of booking. Guests receive an exclusive shore excursion and cocktail reception on the select dates listed above. *A minimum number of staterooms/guests is required for the exclusive shore excursion and onboard cocktail reception. If the minimum is not met, guests will receive 150 per person onboard credit in lieu of the private tour. Offer is capacity controlled and subject to modification, reduction or withdrawal without notice. CST#2065452-20
+        <br/><br/>
+        <strong>Terms and Conditions CAD:</strong> <br/>All cruise prices listed are in CAD and inclusive of port charges. Dates listed are embarkation dates. Optional land programs and airfares are additional; please ask for details. Offer is valid on new bookings starting January 1, 2020 through sailing date and is combinable with current promotional offers available at the time of booking. Guests receive an exclusive shore excursion and cocktail reception on the select dates listed above. *A minimum number of staterooms/ guests is required for the exclusive shore excursion and onboard cocktail reception. If the minimum is not met, guests will receive 150 in USD per person onboard credit in lieu of the private tour. Offer is capacity controlled and subject to modification, reduction or withdrawal without notice. CST#2065452-20
+ 		]]></terms>
+	</cruise>
+
+	<cruise issue="2001" cruise_id="04" type="">
+		<cruise_id><![CDATA[04]]></cruise_id>
+		<supplier_id><![CDATA[cry]]></supplier_id>
+		<supplier_name><![CDATA[Crystal Cruises]]></supplier_name>
+		
+		<title><![CDATA[Icons of the Mediterranean]]></title>
+		<ship><![CDATA[Crystal Serenity]]></ship>
+		<category><![CDATA[Category C3, Ocean View unobstructed]]></category>
+		<pricing><![CDATA[Pricing is per person based on double occupancy]]></pricing>
+		
+		<departure_date><![CDATA[Jul 10, 2020]]></departure_date> <!-- Mmm DD, YYYY -->
+		<duration><![CDATA[9]]></duration>
+		<embarkation><![CDATA[Monte, MC]]></embarkation>
+		<disembarkation><![CDATA[Venice, IT]]></disembarkation>
+		
+		<cost_us><![CDATA[3,299]]></cost_us>
+		<tax_us><![CDATA[405]]></tax_us>
+		<currency_us><![CDATA[USD]]></currency_us>
+		
+		<cost_ca><![CDATA[]]></cost_ca>
+		<tax_ca><![CDATA[]]></tax_ca>
+		<currency_ca><![CDATA[]]></currency_ca>
+		
+		<lead><![CDATA[Discover Italy&rsquo;s famed triumvirate &ndash; Florence&rsquo;s art, Rome&rsquo;s architecture, Venice&rsquo;s palazzo-lined canals &ndash; on an enriching journey from the French Riviera to the Dalmatian Coast with adventures to Positano and Amalfi in between.]]></lead>
+		<intro><![CDATA[]]></intro>
+
+		<tab tab_id="01">
+			<tab_id>shoreEvent</tab_id>
+			<title><![CDATA[Shore Event]]></title>
+			<img>spacer.gif</img>
+			<icon>suitcase</icon>
+			<event_title><![CDATA[Flavos &amp; Traditions Of Old Dubrovnik]]></event_title>
+			<event_location><![CDATA[Dubrovnik]]></event_location>
+			<event_date><![CDATA[TBA]]></event_date> <!-- Mmm DD, YYYY -->
+			<event_depart><![CDATA[Departs TBA]]></event_depart>
+			<event_return><![CDATA[Returns TBA]]></event_return>
+			<event_divider><![CDATA[ &nbsp;|&nbsp;]]></event_divider>
+			<content><![CDATA[
+				<p></p>
+			]]></content>
+			<class><![CDATA[active]]></class>
+		</tab>
+		
+		<tab tab_id="02">
+			<tab_id>ports</tab_id>
+			<title><![CDATA[Ports]]></title>
+			<img>04.jpg</img>
+			<icon>anchor</icon>
+			<content><![CDATA[
+                <p>Monte Carlo, Monaco &bull; Florence/Pisa (Livorno), Italy &bull; Rome (Civitavecchia), Italy &bull; Sorrento, Italy &bull; Dubrovnik, Croatia &bull; Venice, Italy</p>
+			]]></content>
+			<class><![CDATA[]]></class>
+		</tab>
+		
+		<tab tab_id="03">
+			<tab_id>amenities</tab_id>
+			<title><![CDATA[Amenities]]></title>
+			<img>spacer.gif</img>
+			<icon>plus-circle</icon>
+			<content><![CDATA[
+				<p>Michelin inspired cuisine in up to ten dining venues plus 24 hour room service, Resorts World at Sea Casino, Crystal Life Fitness, Spa and Salon, Broadway-style Entertainment, Avenue Saloon and Crystal Cove piano bars, complimentary fitness classes and enrichment programs, world-class lecturers, and Junior Activities on most voyages.</p>
+			]]></content>
+			<class><![CDATA[]]></class>
+		</tab>
+
+		<tab tab_id="04">
+			<tab_id>inclusions</tab_id>
+			<title><![CDATA[Inclusions]]></title>
+			<img>spacer.gif</img>
+			<icon>check-circle</icon>
+			<content><![CDATA[
+				<ul>
+				<li>Economy class roundtrip air transfers, one-night pre-cruise hotel and guided Zodiac</li>
+				<li>Land and sea tours, and shoreside activities</li>
+				<li>Enrichment lectures</li>
+				<li>Unlimited free Wi-Fi</li>
+				<li>Butler service in every suite</li>
+				<li>In-suite dining</li>
+				<li>Onboard gratuities</li>
+				<li>Beverages-in suite and throughout the ship, including Champagne, select wines and spirits</li>
+				</ul>
+			]]></content>
+			<class><![CDATA[]]></class>
+		</tab>
+
+		<terms><![CDATA[
+		All fares are cruise only, in U.S. dollars and do not include taxes, fees, and port charges of 405 per person. Brochure Fares and Book Now Fares are per person based on double occupancy. Your Low Solo Fares (when shown) are per person based on single occupancy; Flex Fares (when shown) are per person based on double occupancy (third berth not available).
+		Book Now Savings are subject to availability at time of booking. Book Now Fares and Low Solo Fares include Crystal Savings and do not include Crystal Society or Early Full Payment savings. Early Full Payment saving is based on the fare after all other discounts are applied. Select voyages offered as &ldquo;Grand Journey&rdquo; sailings are a combination of individual cruise segments and adhere to policies and procedures set forth per segment, including but not limited to embarkation/disembarkation, dress codes and theme cruise programming. Ask for details. Optional Personal Select Air Program is available to purchase for full-fare, full-cruise guests whose travel originates from a U.S. or Canadian airport and includes all government taxes and fees.
+		<br/><br/>
+		Note: Early Full Payment savings do not apply to Personal select Air. All promotions, offers and discounts including but not limited to Crystal Society savings and Onboard Booking discounts apply to first two full-fare guests only in stateroom or suite, are not combinable with other promotions, capacity controlled, subject to availability and may be withdrawn or changed at any time without notice. For complete Cruise Fare and Promotional Information and General Ticket Terms and Conditions, contact your travel advisor. Crystal Cruises, LLC reserves the right to correct errors or omissions and change any and all fares, fees, promotions and programs at any time without notice.
+		]]></terms>
+	</cruise>
+
+	<cruise issue="2001" cruise_id="05" type="">
+		<cruise_id><![CDATA[05]]></cruise_id>
+		<supplier_id><![CDATA[cun]]></supplier_id>
+		<supplier_name><![CDATA[Cunard]]></supplier_name>
+		
+		<title><![CDATA[North Atlantic Crossing &amp; Iceland]]></title>
+		<ship><![CDATA[Queen Mary 2&reg;]]></ship>
+		<category><![CDATA[Balcony]]></category>
+		<pricing><![CDATA[Pricing is per person based on double occupancy]]></pricing>
+		
+		<departure_date><![CDATA[Jul 31, 2020]]></departure_date> <!-- Mmm DD, YYYY -->
+		<duration><![CDATA[14]]></duration>
+		<embarkation><![CDATA[New York, NY]]></embarkation>
+		<disembarkation><![CDATA[London, GBR]]></disembarkation>
+		
+		<cost_us><![CDATA[2,799]]></cost_us>
+		<tax_us><![CDATA[200]]></tax_us>
+		<currency_us><![CDATA[USD]]></currency_us>
+		
+		<cost_ca><![CDATA[3,638]]></cost_ca>
+		<tax_ca><![CDATA[260]]></tax_ca>
+		<currency_ca><![CDATA[CAD]]></currency_ca>
+		
+		<lead><![CDATA[Set a course from New York to Southampton on a stunning voyage combining the beauty of Newfoundland with the culture of vibrant Halifax. Enjoy magical Reykjavik and two Scottish calls en route.]]></lead>
+		<intro><![CDATA[]]></intro>
+		
+		<tab tab_id="02">
+			<tab_id>ports</tab_id>
+			<title><![CDATA[Ports]]></title>
+			<img>05.jpg</img>
+			<icon>anchor</icon>
+			<content><![CDATA[
+				<p>New York &ndash; Halifax &ndash; Corner Brook &ndash; Reykjavik &ndash; Oban &ndash; Glasgow &ndash; Southampton, UK</p>
+			]]></content>
+			<class><![CDATA[active]]></class>
+		</tab>
+		
+		<tab tab_id="03">
+			<tab_id>amenities</tab_id>
+			<title><![CDATA[Amenities]]></title>
+			<img>spacer.gif</img>
+			<icon>plus-circle</icon>
+			<content><![CDATA[
+				<p>All meals, afternoon tea, spa, restaurants, 5 pools, Insights Program of special guest lecturers, entertainment</p>
+			]]></content>
+			<class><![CDATA[]]></class>
+		</tab>
+		
+		<tab tab_id="04">
+			<tab_id>inclusions</tab_id>
+			<title><![CDATA[Inclusions]]></title>
+			<img>spacer.gif</img>
+			<icon>check-circle</icon>
+			<content><![CDATA[
+				<p>Upgrades on Us Promotion effective through 2/27/20</p>
+                <ul>
+                <li>Free Upgrades&dagger;</li>
+                <li>Free Gratuities&Dagger;</li>
+                <li>50% Reduced Deposit^</li>
+                <li>Grill Suite guests receive Free Drinks</li>
+                </ul>
+			]]></content>
+			<class><![CDATA[]]></class>
+		</tab>
+		
+		<terms><![CDATA[
+        Taxes, Fees and Port Expenses ranging from 40 to 1,455 per person are additional and subject to change.<br/>
+        &dagger; Free Stateroom Location Upgrade offer applies to booking the better stateroom location for the price of the lowest category within that stateroom type: Queens Grill to Queens Grill (category Q5 for the same fare as category Q6), Princess Grill to Princess Grill (category P1 for the same fare as category P2), Balcony to Balcony (category BZ for the same fare as category DF), Inside to Inside (category IC for the same fare as category IF) on Queen Mary 2; Queens Grill to Queens Grill (category Q4 for the same fare as category Q6), Princess Grill to Princess Grill (category P1 for the same fare as category P2) Balcony to Balcony (category BE for the same fare as category CB), Ocean view to Ocean View (category EC for the same fare as category FC), Inside to Inside (category ID for the same fare as category IF) on Queen Elizabeth and Queen Victoria. Subject to availability.
+        <br/><br/>
+        &Dagger; Free Gratuities offer is based on pre-payment by Cunard of suggested gratuities in the amount of 13.50 per person per day for Grill Suites and 11.50 per person per day for Britannia staterooms. This offer is not available for third/fourth berth guests. Offer is not transferable and may not be combinable with other offers. Free Gratuities are applicable to bookings on voyages included in this promotion only.
+        ^ 50% Reduced Deposit means that guests will pay 12.5% deposit instead of the standard 25% deposit on voyages less than 31 nights. For voyages 31 nights or longer, 10% deposit will be charged instead of the standard 20% deposit.
+        <br/><br/>
+        &diams; Free Drinks Package offer is applicable only to guests reserving a Princess Grill Suite or Queens Grill Suite on voyages 7 nights or longer listed under this promotion. The Free Drinks offer applies to all drinks 12 and under purchased on board during the cruise. Drinks under this promotion can be purchased and consumed free of charge by the participant only, and may not be purchased for people who are not booked on the promotion. Offer is not applicable to guests under 21 years of age. Drinks priced above the threshold shown above must be purchased at full price. Paying the difference between the threshold and the higher price is not permitted. The standard 15% service charge applied against all bar orders will be included under this promotion for all drinks ordered under the price threshold. Tipping beyond the 15% is at the discretion of the guests. For drinks purchased over the price threshold, the 15% service charge will apply as standard. Drinks ordered on this promotion will be signed for in the normal way with the cost of the drinks appearing on the sales receipt. The cost is credited back to the guest folio on a nightly basis. This promotion does not apply to drinks ordered as room service or in-room mini-bar (except Queens Grill), bottles of wine or drinks packages. Cunard operates a Responsible Service of Alcohol Policy. Offer is not available for third/fourth berth guests, is not transferable and may not be combinable with other offers. No cash value. Promotion code ZED.]]></terms>
+	</cruise>
+
+	<cruise issue="2001" cruise_id="06" type="">
+		<cruise_id><![CDATA[06]]></cruise_id>
+		<supplier_id><![CDATA[hal]]></supplier_id>
+		<supplier_name><![CDATA[Holland America Line]]></supplier_name>
+		
+		<title><![CDATA[14-Day Irish &amp; Scottish Adventure]]></title>
+		<ship><![CDATA[Rotterdam]]></ship>
+		<category><![CDATA[Category FF, ocean view]]></category>
+		<pricing><![CDATA[Pricing is per person based on double occupancy]]></pricing>
+		
+		<departure_date><![CDATA[Sep 05, 2020]]></departure_date> <!-- Mmm DD, YYYY -->
+		<duration><![CDATA[13]]></duration>
+	    <embarkation><![CDATA[Rotterdam, NL]]></embarkation>
+        <disembarkation><![CDATA[Rotterdam, NL]]></disembarkation>
+		
+		<cost_us><![CDATA[2,999]]></cost_us>
+		<tax_us><![CDATA[325]]></tax_us>
+		<currency_us><![CDATA[USD]]></currency_us>
+		
+		<cost_ca><![CDATA[4,329]]></cost_ca>
+		<tax_ca><![CDATA[Included]]></tax_ca>
+		<currency_ca><![CDATA[CAD]]></currency_ca>
+		
+		<lead><![CDATA[Imposing castles and rolling green hillsides guide your way around the United Kingdom and Ireland. Attend the renowned Edinburgh Military Tattoo in Scotland.]]></lead>
+		<intro><![CDATA[]]></intro>
+
+		<tab tab_id="01">
+			<tab_id>shoreEvent</tab_id>
+			<title><![CDATA[Shore Event]]></title>
+			<img>spacer.gif</img>
+			<icon>suitcase</icon>
+			<event_title><![CDATA[The Story Of Hidden Belfast &amp; The Titanic ~ With Lunch]]></event_title>
+			<event_location><![CDATA[Belfast, IE]]></event_location>
+			<event_date><![CDATA[Sep 12, 2020]]></event_date> <!-- Mmm DD, YYYY -->
+			<event_depart><![CDATA[Departs 8:30]]></event_depart>
+			<event_return><![CDATA[Returns 15:00]]></event_return>
+			<event_divider><![CDATA[ &nbsp;|&nbsp;]]></event_divider>
+			<content><![CDATA[
+				<p>Belfast has a long and often turbulent history. This Ensemble Experience show-cases the landmarks and local legends that played a part in its colorful development.Driving through the streets you&rsquo;ll admirethe exuberant Victorian and Edwardian buildings featuring elaborate stone sculp-tures of gods, poets, scientists, kings and queens which peer down from high ledges.</p>
+				<p>You&rsquo;ll also enjoy commentary on such sights as the Grand Opera House, the Albert Memorial, City Hall and Queen&rsquo;s University.</p>
+				<p>Your tour continues with photo stops at alternative sights, including the political wall murals located on the Protestant Shankill Road and the Catholic Falls Road.You&rsquo;ll then stop in McHugh&rsquo;s Bar, a local favorite, for an enchanting journey through Belfast&rsquo;s hidden backstreets and lost lanes with traditional world-class Irish musicians.</p>
+				<p>You&rsquo;ll hear and see them dance through the hustle and bustle of Belfast's history. Raise your voice at 'sean-n&oacute;s' and move your feet to c&eacute;il&iacute; dancing as your entertainers perform some local melodies and street songs that would have been heard in the shipyards, mills and markets of old.</p>
+				<p>In this beloved traditional Irish pub, you&rsquo;ll also savor an authentic taste of Belfast with a lunch of local Irish favorites.You&rsquo;ll then visit the Titanic Experience, right beside the historic site of the world-famous ship's construction.</p>
+				<p>This fascinating exhibit reveals the true story of the &ldquo;unsinkable&rdquo; ship where the legend was born.Explore the sumptuous luxury and superb craftsmanship of its interiors. Delve into the stories of the passengers, crew and heroes of the day; recall the drama of the tragic end to Titanic's maiden &ndash; and final &ndash; voyage.</p>
+			]]></content>
+			<class><![CDATA[active]]></class>
+		</tab>
+		
+		<tab tab_id="02">
+			<tab_id>ports</tab_id>
+			<title>
+			<![CDATA[Ports]]>
+			</title>
+			<img>06.jpg</img>
+			<icon>anchor</icon>
+			<content>
+			<![CDATA[]]>
+			</content>
+			<class>
+			<![CDATA[]]>
+			</class>
+		</tab>
+
+		<tab tab_id="03">
+			<tab_id>amenities</tab_id>
+			<title><![CDATA[Amenities]]></title>
+			<img>spacer.gif</img>
+			<icon>plus-circle</icon>
+			<content><![CDATA[
+				<p>With her multi-million dollar art and antique collection, wide teak decks and classic lines, Rotterdam evokes nautical tradition while delivering state-of-the-art amenities. While on board, work out in the fully equipped Fitness Center.</p><p>Savor the world&rsquo;s great cuisines in the specialty restaurants. Explore the world&rsquo;s wonders with BBC Earth Experiences presentations and activities.</p>
+			]]></content>
+			<class><![CDATA[]]></class>
+		</tab>
+		
+		<tab tab_id="04">
+			<tab_id>inclusions</tab_id>
+			<title><![CDATA[Inclusions]]></title>
+			<img>spacer.gif</img>
+			<icon>check-circle</icon>
+			<content><![CDATA[
+				<p>Enjoy a wide array of engaging opportunities for exploration, dining, entertainment and relaxation.</p>
+			]]></content>
+			<class><![CDATA[]]></class>
+		</tab>
+		
+		<terms><![CDATA[
+        <strong>USD:</strong><br/>
+        * Fares are based on Promo LG. Featured fares are per person based on double occupancy, cruise or Land+Sea Journeys only. Fares are in U.S. dollars. All savings amounts are included in the fares shown. Taxes, Fees &amp; Port Expenses are additional at 325. Subject to availability. For more information about our stateroom categories and suite descriptions, to view deck plans and for full terms and conditions applicable to your cruise, please refer to hollandamerica.com or the appropriate Holland America Line brochure. Offers have limited space and may be modified or withdrawn without prior notice. Other restrictions may apply. Ships' Registry: The Netherlands.
+		<br/><br/>
+        <strong>CAD:</strong><br/>
+        * Fares are based on Promo LG. Featured fares are per person based on double occupancy, cruise or Land+Sea Journeys only. Fares are in Canadian dollars. All savings amounts are included in the fares shown. Taxes, Fees &amp; Port Expenses are included at CAD 423. Subject to availability. For more information about our stateroom categories and suite descriptions, and to view deck plans and for full terms and conditions applicable to your cruise, please refer to hollandamerica.com or the appropriate Holland America brochure. Offers have limited space and may be modified or withdrawn without prior notice. Other restrictions may apply. Ships' Registry: The Netherlands.]]></terms>
+	</cruise>
+
+	<cruise issue="2001" cruise_id="07" type="">
+		<cruise_id><![CDATA[07]]></cruise_id>
+		<supplier_id><![CDATA[ocn]]></supplier_id>
+		<supplier_name><![CDATA[Oceania]]></supplier_name>
+		
+		<title><![CDATA[Vines of History]]></title>
+		<ship><![CDATA[Marina]]></ship>
+		<category><![CDATA[Inside cat G]]></category>
+		<pricing><![CDATA[Pricing is per person based on double occupancy]]></pricing>
+		
+		<departure_date><![CDATA[Sep 22, 2020]]></departure_date> <!-- Mmm DD, YYYY -->
+		<duration><![CDATA[14]]></duration>
+		<embarkation><![CDATA[Amsterdam, NL]]></embarkation>
+		<disembarkation><![CDATA[Barcelona, ES]]></disembarkation>
+		
+		<cost_us><![CDATA[3799]]></cost_us>
+		<tax_us><![CDATA[]]></tax_us>
+		<currency_us><![CDATA[USD]]></currency_us>
+		
+		<cost_ca><![CDATA[5099]]></cost_ca>
+		<tax_ca><![CDATA[]]></tax_ca>
+		<currency_ca><![CDATA[CAD]]></currency_ca>
+		
+		<lead><![CDATA[Tasting the flavors of a place reveals a lot about it. For example, in Bordeaux the namesake red wine is a strong, bold blend. Further west in Ferrol, however, native albari&ntilde;o grapes produce wine that is light and refreshing. Better pop some corks.]]></lead>
+		<intro><![CDATA[]]></intro>
+		
+		<tab tab_id="01">
+			<tab_id>shoreEvent</tab_id>
+			<title><![CDATA[Shore Event]]></title>
+			<img>spacer.gif</img>
+			<icon>suitcase</icon>
+			<event_title><![CDATA[Bordeaux The Art Of Making Wine]]></event_title>
+			<event_location><![CDATA[ Bordeaux]]></event_location>
+			<event_date><![CDATA[TBA]]></event_date> <!-- Mmm DD, YYYY -->
+			<event_depart><![CDATA[Departs TBA]]></event_depart>
+			<event_return><![CDATA[Returns TBA]]></event_return>
+			<event_divider><![CDATA[ &nbsp;|&nbsp;]]></event_divider>
+			<content><![CDATA[
+			<p>Indulge your senses with the exquisite beauty and flavors of Bordeaux during this Ensemble Experience. Depart the pier for a panoramic sight-seeing drive through the Old Town, a UNESCO World Heritage Site. This distinction recognizes the beauty and unity of style of Bordeaux's architectural heritage.</p>
+			<p>See the Palais Rohan (now the City Hall), Place Gambetta and Place Tourny, which offers a view of the lovely, late 18th-century Grand Theatre. Pass by the 14th-century Cailhau Gate, the impressive Grosse Cloche from the English period and the former belfry of the Town Hall from the Middle Ages.</p>
+			<p>Marvel at city sites including the WWII German submarine base, Chartrons river front, 18th century Place de la Bourse and the 13th-century Cathedral of St Andrew.</p>
+			<p>Pass by the dramatic monument to the Girondins of the French Revolution at Esplanade des Quinconces. You&rsquo;ll stop for a guided walk through the Old Bordeaux area, featuring Parliament Square and St. Pierre Square.</p>
+			<p>Continue to the elegant Golden Triangle where Com&eacute;die Square is located with two sumptuous edifices: the Bordeaux Grand Theatre built by Victor Louis in 1773, and the luxury 5-star Bordeaux Grand Hotel &amp; Spa.</p>
+			<p>You&rsquo;ll then visit a prestigious wine gallery and cellar where the sommelier welcomes you with an introduction to the art of wine making and an exquisite wine tasting.</p>
+			<p>As a grand finale to your tour, savor a tasting of three wines: one red wine from M&eacute;doc region, one red wine from St Emilion region and one Bordeaux white wine. The wine tasting will be accompanied with platters of local cheese and delicatessen.</p>
+			]]></content>
+			<class><![CDATA[active]]></class>
+		</tab>
+		
+		<tab tab_id="02">
+			<tab_id>ports</tab_id>
+			<title><![CDATA[Ports]]></title>
+			<img>07.jpg</img>
+			<icon>anchor</icon>
+			<content><![CDATA[
+				<p>Amsterdam, Netherlands &bull; London (Tilbury), UK &bull; Paris (Le Havre), France &bull; Saint-Malo, France &bull; Bordeaux, France (overnight) &bull; Bilbao, Spain &bull; Ferrol, Spain &bull; Oporto, Portugal &bull; Lisbon, Portugal;&nbsp &bull; Seville (C&aacute &bull;diz), Spain &bull; M&aacute;laga, Spain &bull; Barcelona, Spain</p>
+			]]></content>
+			<class><![CDATA[]]></class>
+		</tab>
+		
+		<tab tab_id="03">
+			<tab_id>amenities</tab_id>
+			<title><![CDATA[Amenities]]></title>
+			<img>spacer.gif</img>
+			<icon>plus-circle</icon>
+			<content><![CDATA[
+			<p>Experience the warm and convivial atmosphere unique to Oceania Cruises: elegance without pretense. Feel wonderfully at home as you mingle with shipmates, explore the ship and prepare for all of the exciting destinations you will soon discover. Meet another couple at a wine tasting at La Reserve and recount adventures enjoyed ashore. Join friends for a bridge game, or perhaps simply relax by yourself in the peaceful English-style library.</p>
+            <p>The stimulating variety of entertainment options on board our ships continually ensures your interests are piqued. Enjoy an engaging guest lecture by a historian, naturalist or former ambassador eager to share behind-the-scenes knowledge. Relax at a musical performance, perhaps featuring a live pianist, a classical string quartet, a dynamic vocalist or a spectacular headliner. Later, try your luck at the elegant Monte Carlo-style casino or join jazz night at Martinis.</p>
+			]]></content>
+			<class><![CDATA[]]></class>
+		</tab>
+		
+		<tab tab_id="04">
+			<tab_id>inclusions</tab_id>
+			<title><![CDATA[Inclusions]]></title>
+			<img>spacer.gif</img>
+			<icon>check-circle</icon>
+			<content><![CDATA[
+				<p>Free internet</p>
+			]]></content>
+			<class><![CDATA[]]></class>
+		</tab>
+		
+		<terms><![CDATA[*Offers and fares are subject to change on 4/1/20. All fares are per person in U.S. or Canadian dollars, valid for residents of United States and Canada, based on double occupancy for new bookings only and may be withdrawn at any time.
+		<br/><br/>
+		Free Internet amenity does not include streaming and includes one log-in per stateroom, except Owner&rsquo;s, Vista &amp; Oceania Suites, which receive two log-ins per suite. Cruise-Only Fares do not include Optional charges as detailed in the Guest Ticket Contract, which may be viewed, along with additional terms, at OceaniaCruises.com. Cruise-Only Fares do not include <em>OLife Choice </em>amenities or airfare.
+		<br/><br/>
+		All Fares include government fees &amp; taxes. Oceania Cruises reserves the right to correct errors or omissions and to change any and all fares, fees, promotions and surcharges at any time. Ships&rsquo; Registry: Marshall Islands.]]></terms>
+	</cruise>
+	
+	<cruise issue="2001" cruise_id="08" type="">
+		<cruise_id><![CDATA[08]]></cruise_id>
+		<supplier_id><![CDATA[pgn]]></supplier_id>
+		<supplier_name><![CDATA[Paul Gauguin]]></supplier_name>
+		
+		<title><![CDATA[Tahiti & the Society Islands & Tuamotus]]></title>
+		<ship><![CDATA[m/s Paul Gauguin]]></ship>
+		<category><![CDATA[Category F, porthole stateroom]]></category>
+		<pricing><![CDATA[Pricing is per person based on double occupancy]]></pricing>
+		
+		<departure_date><![CDATA[Nov 11, 2020]]></departure_date> <!-- Mmm DD, YYYY -->
+		<duration><![CDATA[10]]></duration>
+		<embarkation><![CDATA[Papeete, PF]]></embarkation>
+		<disembarkation><![CDATA[Papeete, PF]]></disembarkation>
+		
+		<cost_us><![CDATA[6,495]]></cost_us>
+		<tax_us><![CDATA[]]></tax_us>
+		<currency_us><![CDATA[USD]]></currency_us>
+		
+		<cost_ca><![CDATA[]]></cost_ca>
+		<tax_ca><![CDATA[]]></tax_ca>
+		<currency_ca><![CDATA[]]></currency_ca>
+		
+		<lead><![CDATA[This voyage offers multiple days on some of French Polynesia’s most desirable islands, and the opportunity to experience each port to the fullest.]]></lead>
+		<intro><![CDATA[]]></intro>
+
+		<!-- Shore event TBA -->
+		
+		<tab tab_id="02">
+			<tab_id>ports</tab_id>
+			<title><![CDATA[Ports]]></title>
+			<img>08.jpg</img>
+			<icon>anchor</icon>
+			<content><![CDATA[
+                <p>Papeete &bull; Huahine &bull; Bora Bora (overnight) &bull; Rangiroa &bull; Fakarava &bull; Taha&rsquo;a (Motu Mahana) &bull; Moorea (overnight) &bull; Papeete</p>
+			]]></content>
+			<class><![CDATA[active]]></class>
+		</tab>
+		
+		<tab tab_id="03">
+			<tab_id>amenities</tab_id>
+			<title><![CDATA[Amenities]]></title>
+			<img>spacer.gif</img>
+			<icon>plus-circle</icon>
+			<content><![CDATA[
+			<p>Intimate small ship ambiance with 332 guests, three fine-dining venues, Deep Nature Spa, Onboard marina, optional PADI dive program, spacious balconies in 70% of stateroom.</p>
+			]]></content>
+			<class><![CDATA[]]></class>
+		</tab>
+		
+		<tab tab_id="04">
+			<tab_id>inclusions</tab_id>
+			<title><![CDATA[Inclusions]]></title>
+			<img>spacer.gif</img>
+			<icon>check-circle</icon>
+			<content><![CDATA[
+				<p>Roundtrip airfare from Los Angeles, transfers, beverages including wines, spirits, and beer, all onboard gratuities for room stewards &amp; dining/bar staff</p>
+			]]></content>
+			<class><![CDATA[]]></class>
+		</tab>
+		
+		<terms><![CDATA[All rates are in US dollars, per person based on double occupancy, in category F. Port, security, and handling fees of $215USD per person are included.&nbsp; <br/>
+		Rate included round-trip air Los Angeles to Tahiti, and reflects 10% discount on cruise only.&nbsp; <br/>
+		Rates are subject to availability at time of booking and can be withdrawn at any time.&nbsp; Restrictions apply. <br/>
+		Call for details.]]></terms>
+	</cruise>
+	
+	<cruise issue="2001" cruise_id="09" type="">
+		<cruise_id><![CDATA[09]]></cruise_id>
+		<supplier_id><![CDATA[reg]]></supplier_id>
+		<supplier_name><![CDATA[Regent Seven Seas Cruises]]></supplier_name>
+		
+		<title><![CDATA[Ciao Italia]]></title>
+		<ship><![CDATA[Seven Seas Voyager&reg;]]></ship>
+		<category><![CDATA[H-DLX Veranda Suite]]></category>
+		<pricing><![CDATA[Pricing is per person based on double occupancy]]></pricing>
+		
+		<departure_date><![CDATA[Aug 21, 2020]]></departure_date> <!-- Mmm DD, YYYY -->
+		<duration><![CDATA[12]]></duration>
+		<embarkation><![CDATA[Barcelona, ES]]></embarkation>
+		<disembarkation><![CDATA[Venice, IT]]></disembarkation>
+		
+		<cost_us><![CDATA[11,199]]></cost_us>
+		<tax_us><![CDATA[]]></tax_us>
+		<currency_us><![CDATA[USD]]></currency_us>
+		
+		<cost_ca><![CDATA[14,649]]></cost_ca>
+		<tax_ca><![CDATA[]]></tax_ca>
+		<currency_ca><![CDATA[CAD]]></currency_ca>
+		
+		<lead><![CDATA[Sail into the romance of the Mediterranean and discover ancient worlds and cultural springs of wonder and beauty. Savor the fresh catch of the day with a pristinely aged vintage.&nbsp; Take your experience to another level with the select itineraries and smaller group tours offered through our Regent Choice Shore Excursions and use your special $1000 Regent Choice Credit to elevate your experience at no additional cost.]]></lead>
+		<intro><![CDATA[]]></intro>
+  
+		<tab tab_id="01">
+			<tab_id>shoreEvent</tab_id>
+			<title><![CDATA[Shore Event]]></title>
+			<img>spacer.gif</img>
+			<icon>suitcase</icon>
+			<event_title><![CDATA[Charming Taormina &amp; Casa Cuseni Experience]]></event_title>
+			<event_location><![CDATA[Taormina]]></event_location>
+			<event_date><![CDATA[TBA]]></event_date> <!-- Mmm DD, YYYY -->
+			<event_depart><![CDATA[Departs TBA]]></event_depart>
+			<event_return><![CDATA[Returns TBA]]></event_return>
+			<event_divider><![CDATA[ &nbsp;|&nbsp;]]></event_divider>
+			<content><![CDATA[
+				<p>Perched on a terrace overlooking the sea, Taormina has a delightful medieval character and is well known all over the world as one of the most beautiful spots in Sicily.</p>
+                <p>Your <em>Ensemble Experience</em> will begin aboard a deluxe motor coach. After a short drive through the center of Giardini Naxos, the first Greek colony established in Sicily in 734 B.C., and along the coast, you&rsquo;ll wind up on a scenic route which takes you to Taormina. Leaving your coach at the parking lot, you&rsquo;ll then continue on foot.</p>
+                <p>Following your guide, you&rsquo;ll reach <strong>Casa Cuseni, the most prestigious villa </strong>in the city of Taormina. Due to its highly elevated historic and artistic value, it&rsquo;s been declared <strong>a National Italian Monument</strong>. The villa was constructed in the early twentieth century by Robert H. Kitson, and is surrounded by an enchanting and historical garden, with 13 panoramic terraces that face the Bay of Giardini Naxos and Mount Etna.</p>
+                <p>When Robert H. Kitson died in 1947, the House was inherited by his niece, who transformed part of the residence into a special museum in memory of her uncle who was a painter, and the other part into the first and only hotel for artists in Italy. The historic garden is part of the 124 Grandi Giardini Italiani (Grand Italian Gardens).</p>
+                <p>After your visit, a<strong> refreshment will be served on the terrace</strong>.</p>
+                <p>Then you&rsquo;ll <strong>continue your guided stroll through the main street</strong>, Corso Umberto with stops at the Cathedral (outside visit),</p>
+                <p>IX Aprile square and a view of the Palazzo Corvaja from the exterior.</p>
+                <p>Finally, there will <strong>be some free time to do some shopping or wander</strong> around savoring the particular charm and atmosphere of this small medieval town, before meeting your guide and walking to the parking lot for the drive back to your ship.</p>
+			]]></content>
+			<class><![CDATA[active]]></class>
+		</tab>
+		
+		<tab tab_id="02">
+			<tab_id>ports</tab_id>
+			<title><![CDATA[Ports]]></title>
+			<img>09.jpg</img>
+			<icon>anchor</icon>
+			<content><![CDATA[
+				<p>Barcelona, Spain &bull; Provence (Marseille), France &bull; Monte Carlo, Monaco &bull; Florence/Pisa (Livorno), Italy &bull; Rome (Civitavecchia), Italy &bull; Sorrento/Capri, Italy &bull; Taormina (Sicily), Italy &bull; Argostoli (Cephalonia), Greece &bull; Bari, Italy &bull; Kotor, Montenegro &bull; Dubrovnik, Croatia &bull; Venice, Italy</p>
+			]]></content>
+			<class><![CDATA[]]></class>
+		</tab>
+		
+		<tab tab_id="03">
+			<tab_id>amenities</tab_id>
+			<title><![CDATA[Amenities]]></title>
+			<img>spacer.gif</img>
+			<icon>plus-circle</icon>
+			<content><![CDATA[
+				<p>Spa &amp; Fitness, Casino, open dining, entertainment, boutiques and more</p>
+			]]></content>
+			<class><![CDATA[]]></class>
+		</tab>
+		
+		<tab tab_id="04">
+			<tab_id>inclusions</tab_id>
+			<title><![CDATA[Inclusions]]></title>
+			<img>spacer.gif</img>
+			<icon>check-circle</icon>
+			<content><![CDATA[
+				<ul>
+				<li>$1,000 Shipboard cabin credit</li>
+				<li>ALL FARES INCLUDE: 2-FOR-1 All-Inclusive Fares</li>
+				<li>FREE Business Class Air* on All Intercontinental Flights with&nbsp;FREE&nbsp;Transfers Between Airport and Ship</li>
+				<li>FREE&nbsp;Unlimited Shore Excursions</li>
+				<li>FREE&nbsp;Unlimited Beverages Including Fine Wines and Premium Spirits</li>
+				<li>FREE&nbsp;Open Bars and Lounges Plus In-Suite Mini-Bar Replenished Daily</li>
+				<li>FREE&nbsp;Pre-Paid Gratuities</li>
+				<li>FREE&nbsp;Specialty Restaurants</li>
+				<li>FREE&nbsp;Unlimited WiFi CONCIERGE SUITES AND HIGHER INCLUDE:&nbsp;FREE 1-Night Pre-Cruise Hotel Package and more</li>
+				<li>PENTHOUSE SUITES AND HIGHER INCLUDE:&nbsp;FREE Personal Butler and more</li>
+				</ul>
+			]]></content>
+			<class><![CDATA[]]></class>
+		</tab>
+		<!-- TBD -->
+		<terms><![CDATA[*Fares are subject to increase. All fares are per person in U.S. dollars, valid for residents of U.S. and Canada, based on double occupancy for new bookings only and may be withdrawn at any time without notice.
+		<br/><br/>
+		Not all promotions are combinable. 2-for-1 Fares are based on published Full Brochure Fares; such fares may not have resulted in actual sales in all suite categories and do not include optional charges as detailed in the Guest Ticket Contract. Celebrate Luxury Perfected offer is capacity controlled and applies to new bookings only made between 1/6/20 and 3/31/20.
+		<br/><br/>
+		Offer is combinable Single Supplement Specials and Special Savings for Kids, but is not combinable with Canadian Dollars at Par. Shipboard Credit is non-transferable and may not be redeemed for cash. Offer may be withdrawn at any time. Registry: Bahamas. 2020 Regent Seven Seas Cruises]]></terms>
+	</cruise>
+
+	<cruise issue="2001" cruise_id="10" type="">
+		<cruise_id><![CDATA[10]]></cruise_id>
+		<supplier_id><![CDATA[sea]]></supplier_id>
+		<supplier_name><![CDATA[Seabourn]]></supplier_name>
+		
+		<title><![CDATA[Spain & Romantic Rivieras]]></title>
+		<ship><![CDATA[Seabourn Encore]]></ship>
+		<category><![CDATA[Veranda Suite]]></category>
+		<pricing><![CDATA[Pricing is per person based on double occupancy]]></pricing>
+		
+		<departure_date><![CDATA[Jul 18, 2020]]></departure_date> <!-- Mmm DD, YYYY -->
+		<duration><![CDATA[13]]></duration>
+		<embarkation><![CDATA[Barcelona, ES]]></embarkation>
+		<disembarkation><![CDATA[Barcelona, ES]]></disembarkation>
+		
+		<cost_us><![CDATA[6,299]]></cost_us>
+		<tax_us><![CDATA[330]]></tax_us>
+		<currency_us><![CDATA[USD]]></currency_us>
+		
+		<cost_ca><![CDATA[7,899]]></cost_ca>
+		<tax_ca><![CDATA[436]]></tax_ca>
+		<currency_ca><![CDATA[CAD]]></currency_ca>
+		
+		<lead><![CDATA[14-Day Spain & Romantic Rivieras Cruise]]></lead>
+		<intro><![CDATA[]]></intro>
+		
+		<tab tab_id="02">
+			<tab_id>ports</tab_id>
+			<title><![CDATA[Ports]]></title>
+			<img>10.jpg</img>
+			<icon>anchor</icon>
+			<content><![CDATA[
+				<p>Barcelona, Spain &bull; Ciutadella De Menorca, Spain &bull; Le Lavandou, France &bull; Monte Carlo, Monaco &bull; St Tropez, France &bull; Bastia, Corsica, France &bull; Portovenere, Italy &bull; Civitavecchia (Rome), Italy &bull; Livorno (Florence/Pisa), Italy &bull; Portofino, Italy &bull; Bandol, France &bull; Sete, France &bull;  Palamos, Spain &bull; Palma De Mallorca, Spain &bull;  Barcelona, Spain</p>
+			]]></content>
+			<class><![CDATA[active]]></class>
+		</tab>
+		
+		<tab tab_id="03">
+			<tab_id>amenities</tab_id>
+			<title><![CDATA[Amenities]]></title>
+			<img>spacer.gif</img>
+			<icon>plus-circle</icon>
+			<content><![CDATA[
+			<p><strong>Seabourn All-inclusive Difference </strong></p>
+			<ul>
+			<li>Intimate ships with a private club atmosphere</li>
+			<li>Intuitive, personalized service provided by staff passionate about exceeding guests expectations</li>
+			<li>Curated voyages to all seven continents delivering award-winning experiences</li>
+			<li>All ocean-front suites, luxuriously appointed</li>
+			<li>Finest resort at sea that is masterfully designed&nbsp;</li>
+			<li>World-class dining, further enhanced through a culinary partnership with Chef Thomas Keller</li>
+			<li>Seabourn Conversations, connecting with visionary experts</li>
+			<li>Ventures by Seabourn&reg;, optional shore excursions, enhance and extend your experience in select destinations*^</li>
+			<li>Select purposeful and sustainable travel experiences in partnership with UNESCO*</li>
+			<li>Spa &amp; Wellness with Dr. Andrew Weil, featuring an exclusive mindful living program*</li>
+			<li>An evening entertainment experience in collaboration with Sir Tim Rice&dagger;</li>
+			<li>Committed to environmental stewardship and sustainability</li>
+			</ul>
+			<p>*Optional programs, for additional charge</p>
+			]]></content>
+			<class><![CDATA[]]></class>
+		</tab>
+		
+		<tab tab_id="04">
+			<tab_id>inclusions</tab_id>
+			<title><![CDATA[Inclusions]]></title>
+			<img>spacer.gif</img>
+			<icon>check-circle</icon>
+			<content><![CDATA[
+				<ul>
+                <li>Complimentary premium spirits and fine wines available on board at all times</li>
+                <li>Welcome Champagne and complimentary in-suite bar stocked with your preferences</li>
+                <li>Tipping is neither required, nor expected</li>
+                <li>All dining venues are complimentary, dine where, when and with whom you wish</li>
+                </ul>
+			]]></content>
+			<class><![CDATA[]]></class>
+		</tab>
+		<!-- TBD -->
+		<terms><![CDATA[
+		<strong>US</strong>
+		*All fares are in U.S. dollars, cruise-only, for new bookings only, per guest, double occupancy, and subject to availability. Taxes, Fees and Port Expenses of $330 per person are additional. Fares are not combinable with any other offer or discounts, may vary by sailing date, are capacity controlled, and are subject to change without prior notice. All savings amounts are included in fares shown. Certain restrictions apply. Seabourn reserves the right to correct&nbsp;errors. Ships&rsquo; registry: Bahamas. &copy;2020 Seabourn&nbsp; <br/>
+		<br/>
+		<strong>Canada</strong> <br/>
+		All fares are in U.S. dollars, cruise-only, for new bookings only, per guest, double occupancy, and subject to availability. Taxes, Fees and Port Expenses of CAD 436 per person are additional. Fares are not combinable with any other offer or discounts, may vary by sailing date, are capacity controlled, and are subject to change without prior notice. All savings amounts are included in fares shown. Certain restrictions apply. Seabourn reserves the right to correct errors. Ships&rsquo; registry: Bahamas. &copy;2020 Seabourn
+		]]></terms>
+	</cruise>
+
+	<cruise issue="2001" cruise_id="11" type="">
+		<cruise_id><![CDATA[11]]></cruise_id>
+		<supplier_id><![CDATA[sil]]></supplier_id>
+		<supplier_name><![CDATA[Silversea]]></supplier_name>
+		
+		<title><![CDATA[Sub-Antarctica Cruise]]></title>
+		<ship><![CDATA[Silver Explorer]]></ship>
+		<category><![CDATA[Adventure Class (ocean-view)]]></category>
+		<pricing><![CDATA[Pricing is per person based on double occupancy]]></pricing>
+		
+		<departure_date><![CDATA[Feb 09, 2021]]></departure_date> <!-- Mmm DD, YYYY -->
+		<duration><![CDATA[14]]></duration>
+		<embarkation><![CDATA[Dunedin, NZ]]></embarkation>
+		<disembarkation><![CDATA[Melbourne, AU]]></disembarkation>
+		
+		<cost_us><![CDATA[16,100]]></cost_us>
+		<tax_us><![CDATA[]]></tax_us>
+		<currency_us><![CDATA[USD]]></currency_us>
+		
+		<cost_ca><![CDATA[19,500]]></cost_ca>
+		<tax_ca><![CDATA[]]></tax_ca>
+		<currency_ca><![CDATA[CAD]]></currency_ca>
+		
+		<lead><![CDATA[]]></lead>
+		<intro><![CDATA[]]></intro>
+
+		<tab tab_id="02">
+			<tab_id>ports</tab_id>
+			<title>
+			<![CDATA[Ports]]>
+			</title>
+			<img>11.jpg</img>
+			<icon>anchor</icon>
+			<content>
+			<![CDATA[]]>
+			</content>
+			<class>
+			<![CDATA[active]]>
+			</class>
+		</tab>
+
+  
+		<tab tab_id="03">
+			<tab_id>amenities</tab_id>
+			<title><![CDATA[Amenities]]></title>
+			<img>spacer.gif</img>
+			<icon>plus-circle</icon>
+			<content><![CDATA[
+				<p>Restaurants, spa, gym</p>
+				<p><strong>We are pleased to offer you these special amenities, with our compliments</strong>!&nbsp;</p>
+				<ul>
+				<li>Experience Shipboard Credit $250 Per Person&nbsp;</li>
+				<li>Complimentary Traveler Cocktail Party</li>
+				<li>The Company of a Gracious Traveler Host</li>
+				</ul>
+			]]></content>
+			<class><![CDATA[]]></class>
+		</tab>
+		
+		<tab tab_id="04">
+			<tab_id>inclusions</tab_id>
+			<title><![CDATA[Inclusions]]></title>
+			<img>spacer.gif</img>
+			<icon>check-circle</icon>
+			<content><![CDATA[
+                <p>Upgrades on Us Promotion effective through 2/27/20</p>
+				<ul>
+				<li>Free Upgrades&dagger;</li>
+				<li>Free Gratuities&Dagger;</li>
+				<li>50% Reduced Deposit^</li>
+				<li>Grill Suite guests receive Free Drinks</li>
+				</ul>
+			]]></content>
+			<class><![CDATA[]]></class>
+		</tab>
+  
+		<terms><![CDATA[
+			All fares, savings, offers, programs and itineraries are subject to change without notice. Additional restrictions may apply. Silversea reserves the right to correct any errors or omissions.<br/>
+			<br/>
+            This document may contain inadvertent technical or factual inaccuracies and typographical errors. Silversea reserves the right to correct errors and omissions at any time without prior notice, and to cancel any offered product, service, program, reward, savings, credit, amenity, etc. in the event of any error or omission in the description, including pricing and availability.]]></terms>
+	</cruise>
+
+	<cruise issue="2001" cruise_id="12" type="">
+		<cruise_id><![CDATA[12]]></cruise_id>
+		<supplier_id><![CDATA[stc]]></supplier_id>
+		<supplier_name><![CDATA[Star Clippers]]></supplier_name>
+		
+		<title><![CDATA[Antigua to Barbados]]></title>
+		<ship><![CDATA[Royal Clipper]]></ship>
+		<category><![CDATA[Category 6]]></category>
+		<pricing><![CDATA[Pricing is per person]]></pricing>
+		
+		<departure_date><![CDATA[Dec 05, 2020]]></departure_date> <!-- Mmm DD, YYYY -->
+		<duration><![CDATA[7]]></duration>
+		<embarkation><![CDATA[St. John’s, AG]]></embarkation>
+		<disembarkation><![CDATA[Bridgetown BB]]></disembarkation>
+		
+		<cost_us><![CDATA[1,540]]></cost_us>
+		<tax_us><![CDATA[235]]></tax_us>
+		<currency_us><![CDATA[USD]]></currency_us>
+		
+		<cost_ca><![CDATA[1,850]]></cost_ca>
+		<tax_ca><![CDATA[270]]></tax_ca>
+		<currency_ca><![CDATA[CAD]]></currency_ca>
+		
+		<lead><![CDATA[7 night sailing from Antigua to Barbados]]></lead>
+		<intro><![CDATA[]]></intro>
+  
+		<tab tab_id="01">
+			<tab_id>shoreEvent</tab_id>
+			<title><![CDATA[Shore Event]]></title>
+			<img>spacer.gif</img>
+			<icon>suitcase</icon>
+			<event_title><![CDATA[The Isle Of Spice Ensemble Experience]]></event_title>
+			<event_location><![CDATA[St. George's]]></event_location>
+			<event_date><![CDATA[Dec 09, 2020]]></event_date> <!-- Mmm DD, YYYY -->
+			<event_depart><![CDATA[Departs TBA]]></event_depart>
+			<event_return><![CDATA[Returns TBA]]></event_return>
+			<event_divider><![CDATA[ &nbsp;|&nbsp;]]></event_divider>
+			<content><![CDATA[
+            <p>A lively blend of French and English cultures, St. George's has steep hills and spectacular views, perfumed with the heady scents of nutmeg, cinnamon and cloves. You&rsquo;ll also find mountain waterfalls, white-sand beaches and lagoons of mottled blues. Grenada, "The Isle of Spice&rdquo;, has more spices per square mile than any other place in the world.</p>
+            
+            <p>Your <em>Ensemble Experience</em> begins with a <strong>drive through St. George&rsquo;s, Grenada&rsquo;s capital</strong>. From the quaint town of red tiled roofs and spice markets you&rsquo;ll climb up to historic Fort Frederick for a panoramic view of St. George&rsquo;s and your ship in the harbor.</p>
+            
+            <p>Your next stop, at <strong>Grand Etang National Park, has one of the most dramatic views in the Caribbean</strong> overlooking shimmering Grand Etang Lake. This cobalt blue, extinct volcano crater lake is situated a breathtaking 1900 ft above sea level. While here you may get a glimpse of the rare Mona Monkey.</p>
+            <p>From the Park your scenic drive will take you to the <strong>authentic 17th century plantation of Belmont Estate</strong> to observe the workings of a fully functional historic plantation.</p>
+            
+            <p>Here you&rsquo;ll be fascinated with captivating displays that document Grenada&rsquo;s traditions and intriguing history. You&rsquo;ll enjoy the best of true Grenadian hospitality and its breath-taking surroundings as you <strong>feast on a</strong> <strong>delicious lunch with a Grenadian flavor</strong>.</p>
+            
+            <p>After, stroll through the plantation&rsquo;s tropical gardens before leaving to visit the oldest functioning water wheel in the Western hemisphere, at the <strong>River Antoine Sugar Estate and rum distillery</strong>. After a delightful tour to see the age-old rum making process, you&rsquo;ll have the chance to sample the rum.</p>
+            
+            <p>Then driving back to the pier, you&rsquo;ll see the final snippets of Grenada&rsquo;s colorful history, including relics of the 1979 revolution.</p>
+			]]></content>
+			<class><![CDATA[active]]></class>
+		</tab>
+		
+		<tab tab_id="02">
+			<tab_id>ports</tab_id>
+			<title><![CDATA[Ports]]></title>
+			<img>12.jpg</img>
+			<icon>anchor</icon>
+			<content><![CDATA[
+            <p>St. John&rsquo;s, Antigua &bull; Terre de haut, Iles des Saintes &bull; Cabrits, Dominica &bull; Martinique &bull; St George&rsquo;s, Grenada &bull; Tobago Cays, Grenadines &bull; Marigot Bay, St Lucia &bull; Soufriere, St. Lucia &bull; Bridgetown, Barbados</p>
+			]]></content>
+			<class><![CDATA[]]></class>
+		</tab>
+		
+		<tab tab_id="04">
+			<tab_id>inclusions</tab_id>
+			<title><![CDATA[Inclusions]]></title>
+			<img>spacer.gif</img>
+			<icon>check-circle</icon>
+			<content><![CDATA[
+				<p>$150 on-board credit, special shore excursion</p>
+			]]></content>
+			<class><![CDATA[]]></class>
+		</tab>
+
+ 		<terms><![CDATA[<strong>US terms:</strong><br/>
+ 		Sail &amp; Stay Rates are in USD, per person and based on double occupancy. Port charges, gratuities and air are additional. Free hotel offer (pre or post) is for select sailings only in St. Maarten. Hotels &amp; dates are based on double occupancy and include 2-night accommodation with breakfast and 1 transfer from hotel to ship (or reverse). Free hotel offer cannot be combined with other offers and is subject to hotel provider confirmation. Hotel stay is not valid with third person rate. Solo travelers are eligible for a reduced hotel rate. Hotels indicated in offer may be substituted at Star Clippers discretion. Cancellation penalties apply for cruise and hotel packages. Offer is not applicable to group bookings. $150 onboard credit is per cabin [$75 per person based on double occupancy], has no cash value, is non-transferable and will expire if not used by the last evening of the passenger&rsquo;s sailing. This offer is for new bookings only, may be withdrawn at any time without notice and is capacity controlled. Other restrictions may apply. Rates are valid for US &amp; Latin America residents only. All information herein is accurate and in effect at time of printing. Star Clippers Americas reserves the right to correct any errors or omissions. Star Clippers GSA, Inc. dba Star Clippers America acts only as a sales and marketing agent for Star Clippers, Ltd. for purpose of booking travel arrangements on Star Clippers vessels. Star Clippers, Ltd. operates the vessels on which you will be sailing. &copy; Star Clippers 2019. Ship's Registry: Malta. CST# 37231<br/>
+ 		<br/>
+        <strong>Canada terms:</strong> <br/>
+         <br>Sail and Stay rates are in Canadian dollars per person, per person and based on double occupancy. Port charges, gratuities and air are additional. Free hotel offer (pre or post) is for select sailings only in St. Maarten. Hotels &amp; dates are based on double occupancy and include 2-night accommodation with breakfast and 1 transfer from hotel to ship (or reverse). Free hotel offer cannot be combined with other offers and is subject to hotel provider confirmation. Hotel stay is not valid with third person rate. Solo travelers are eligible for a reduced hotel rate. Hotels indicated in offer may be substituted at Star Clippers discretion. Cancellation penalties apply for cruise and hotel packages. Offer is not applicable to group bookings. $150 CAD onboard credit is per cabin [$75 CAD per person based on double occupancy], has no cash value, is non-transferable and will expire if not used by the last evening of the passenger&rsquo;s sailing. This offer is for new bookings only, may be withdrawn at any time without notice and is capacity controlled. Other restrictions may apply. Valid for Canadian residents only. All information herein is accurate and in effect at time of printing. Star Clippers Americas reserves the right to correct any errors or omissions. Star Clippers GSA, Inc. dba Star Clippers America acts only as a sales and marketing agent for Star Clippers, Ltd. for purpose of booking travel arrangements on Star Clippers vessels. Star Clippers, Ltd. operates the vessels on which you will be sailing. &copy; Star Clippers 2019. Ship's Registry: Malta. CST# 37231]]></terms>
+	</cruise>
+</root>

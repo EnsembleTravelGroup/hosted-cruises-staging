@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66283bb2-ebcb-4736-a305-c89e2fb89df4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Wfn4bIxO9RbsmHYoNaiI0G89BX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="add_unversioned_files" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/20/01/img/_master" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66283bb2-ebcb-4736-a305-c89e2fb89df4" name="Default Changelist" comment="" />
+      <created>1579549326619</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579549326619</updated>
+      <workItem from="1579549328134" duration="39000" />
+      <workItem from="1593194213723" duration="2313000" />
+    </task>
+    <task id="LOCAL-00001" summary="*Refactoring directories">
+      <created>1593204148998</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593204148998</updated>
+    </task>
+    <task id="LOCAL-00002" summary="*Refactoring directories">
+      <created>1593204968024</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1593204968024</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="*Refactoring directories" />
+    <option name="LAST_COMMIT_MESSAGE" value="*Refactoring directories" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="723" y="388" key="#Notifications" timestamp="1593205052398">
+      <screen x="0" y="23" width="1680" height="990" />
+    </state>
+    <state x="723" y="388" key="#Notifications/0.23.1680.990@0.23.1680.990" timestamp="1593205052398" />
+    <state x="304" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593204394295">
+      <screen x="0" y="23" width="1680" height="990" />
+    </state>
+    <state x="304" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.990@0.23.1680.990" timestamp="1593204394295" />
+    <state x="322" y="110" key="CommitChangelistDialog2" timestamp="1593204967770">
+      <screen x="0" y="23" width="1680" height="990" />
+    </state>
+    <state x="322" y="110" key="CommitChangelistDialog2/0.23.1680.990@0.23.1680.990" timestamp="1593204967770" />
+    <state x="506" y="245" key="RollbackChangesDialog" timestamp="1593204531302">
+      <screen x="0" y="23" width="1680" height="990" />
+    </state>
+    <state x="506" y="245" key="RollbackChangesDialog/0.23.1680.990@0.23.1680.990" timestamp="1593204531302" />
+    <state x="440" y="258" key="Vcs.Push.Dialog.v2" timestamp="1593205025865">
+      <screen x="0" y="23" width="1680" height="990" />
+    </state>
+    <state x="440" y="258" key="Vcs.Push.Dialog.v2/0.23.1680.990@0.23.1680.990" timestamp="1593205025865" />
+  </component>
+</project>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feature issue="YYQQ" feature_id="01">
+	<pub_date><![CDATA[Mmm 20YY]]></pub_date>
+	<supplier_id><![CDATA[supplierID]]></supplier_id>
+	<supplier_name><![CDATA[supplierName]]></supplier_name>
+	
+	<lead><![CDATA[partnerLead]]></lead>
+	<intro><![CDATA[partnerIntro]]></intro>
+	
+	<tab tab_id="ships">
+		<tab_id>ships</tab_id>
+		<title><![CDATA[The Ships]]></title>
+		<icon>anchor</icon>
+		<content><![CDATA[
+			<p></p>
+		]]></content>
+		<img_src>http://www.ensemblehostedcruises.com/files/img/YY/QQ/partner/ships.jpg</img_src>
+		<img_caption><![CDATA[The Ships]]></img_caption>
+		<class>active</class>
+	</tab>
+	
+	<tab tab_id="accommodations">
+		<tab_id>accommodations</tab_id>
+		<title><![CDATA[Accommodations]]></title>
+		<icon>bed</icon>
+		<content><![CDATA[
+			<p></p>
+		   ]]></content>
+		<img_src>http://www.ensemblehostedcruises.com/files/img/YY/QQ/partner/accommodations.jpg</img_src>
+		<img_caption><![CDATA[Accommodations]]></img_caption>
+		<class></class>
+	</tab>
+	
+	<tab tab_id="dining">
+		<tab_id>dining</tab_id>
+		<title><![CDATA[Dining]]></title>
+		<icon>cutlery</icon>
+		<content><![CDATA[
+			<p></p>
+		   ]]></content>
+		<img_src>http://www.ensemblehostedcruises.com/files/img/YY/QQ/partner/dining.jpg</img_src>
+		<img_caption><![CDATA[Dining]]></img_caption>
+		<class></class>
+	</tab>
+	
+	<tab tab_id="activities">
+		<tab_id>activities</tab_id>
+		<title><![CDATA[Activities]]></title>
+		<icon>book</icon>
+		<content><![CDATA[
+			<p></p>
+		   ]]></content>
+		<img_src>http://www.ensemblehostedcruises.com/files/img/YY/QQ/partner/activities.jpg</img_src>
+		<img_caption><![CDATA[Activities]]></img_caption>
+		<class></class>
+	</tab>
+	
+	<tab tab_id="family">
+		<tab_id>family</tab_id>
+		<title><![CDATA[Family]]></title>
+		<icon>group</icon>
+		<content><![CDATA[
+			<p></p>
+		]]></content>
+		<img_src>http://www.ensemblehostedcruises.com/files/img/YY/QQ/partner/family.jpg</img_src>
+		<img_caption><![CDATA[Family]]></img_caption>
+		<class></class>
+	</tab>
+	
+	<tab tab_id="services">
+		<tab_id>services</tab_id>
+		<title><![CDATA[Onboard Services]]></title>
+		<icon>bell</icon>
+		<content><![CDATA[
+			<p></p>
+		]]></content>
+		<img_src>http://www.ensemblehostedcruises.com/files/img/YY/QQ/partner/services.jpg</img_src>
+		<img_caption><![CDATA[Onboard Services]]></img_caption>
+		<class></class>
+	</tab>
+	
+	<video>
+		<title><![CDATA[videoTitle]]></title>
+		<lead><![CDATA[videoLead]]></lead>
+		<intro><![CDATA[videoIntro]]></intro>
+		<embed><![CDATA[
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/youtubeID?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+			<iframe src="https://player.vimeo.com/video/vimeoID?color=ed1940&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		]]></embed>
+	</video>
+</feature>
