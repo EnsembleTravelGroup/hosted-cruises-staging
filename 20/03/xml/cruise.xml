@@ -26,22 +26,6 @@
 		<lead><![CDATA[]]></lead>
 		<intro><![CDATA[  ]]></intro>
 		
-		<tab tab_id="01">
-			<tab_id>shoreEvent</tab_id>
-			<title><![CDATA[Shore Event]]></title>
-			<img>spacer.gif</img>
-			<icon>suitcase</icon>
-			<event_title><![CDATA[Private Car & Driver Credit]]></event_title>
-			<event_location><![CDATA[Heraklion, GR]]></event_location>
-			<event_date><![CDATA[TBD]]></event_date> <!-- Mmm DD, 2020 -->
-			<event_depart><![CDATA[TBD]]></event_depart>
-			<event_return><![CDATA[TBD]]></event_return>
-			<content><![CDATA[
-				<p>Experience Private Car & Driver Credit in Heraklion (Credit Value up to $225 per person, based on double occupancy)</p>
-			]]></content>
-			<class><![CDATA[active]]></class>
-		</tab>
-		
 		<tab tab_id="02">
 			<tab_id>ports</tab_id>
 			<title><![CDATA[Ports]]></title>
@@ -62,7 +46,7 @@
 				</ul>
 
 			]]></content>
-			<class><![CDATA[]]></class>
+			<class><![CDATA[active]]></class>
 		</tab>
 		
 		<tab tab_id="03">
@@ -141,22 +125,6 @@
 		<lead><![CDATA[cruiseLead]]></lead>
 		<intro><![CDATA[  ]]></intro>
 		
-		<tab tab_id="01">
-			<tab_id>shoreEvent</tab_id>
-			<title><![CDATA[Shore Event]]></title>
-			<img>spacer.gif</img>
-			<icon>suitcase</icon>
-			<event_title><![CDATA[Private Car & Driver Credit]]></event_title>
-			<event_location><![CDATA[Monte Carlo]]></event_location>
-			<event_date><![CDATA[TBD]]></event_date> <!-- Mmm DD, 2020 -->
-			<event_depart><![CDATA[TBD]]></event_depart>
-			<event_return><![CDATA[TBD]]></event_return>
-			<content><![CDATA[
-				<p>Private Car & Driver Credit in Monte Carlo (Credit Value up to $225 per person, based on double occupancy)</p>
-			]]></content>
-			<class><![CDATA[active]]></class>
-		</tab>
-		
 		<tab tab_id="02">
 			<tab_id>ports</tab_id>
 			<title><![CDATA[Ports]]></title>
@@ -175,7 +143,7 @@
 					<li>Barcelona, Spain</li>
 				</ul>
 			]]></content>
-			<class><![CDATA[]]></class>
+			<class><![CDATA[active]]></class>
 		</tab>
 		
 		<tab tab_id="03">
@@ -252,22 +220,6 @@
 		<lead><![CDATA[]]></lead>
 		<intro><![CDATA[  ]]></intro>
 		
-		<tab tab_id="01">
-			<tab_id>shoreEvent</tab_id>
-			<title><![CDATA[Shore Event]]></title>
-			<img>spacer.gif</img>
-			<icon>suitcase</icon>
-			<event_title><![CDATA[Private Car & Driver Credit]]></event_title>
-			<event_location><![CDATA[St. Petersburg, RU]]></event_location>
-			<event_date><![CDATA[TBD]]></event_date> <!-- Mmm DD, 2020 -->
-			<event_depart><![CDATA[TBD]]></event_depart>
-			<event_return><![CDATA[TBD]]></event_return>
-			<content><![CDATA[
-				<p>Private Car & Driver Credit in St. Petersburg (Credit Value up to $225 per person, based on double occupancy)</p>
-			]]></content>
-			<class><![CDATA[active]]></class>
-		</tab>
-		
 		<tab tab_id="02">
 			<tab_id>ports</tab_id>
 			<title><![CDATA[Ports]]></title>
@@ -288,7 +240,7 @@
 					<li>London (Southampton), UK</li>
 				</ul>
 			]]></content>
-			<class><![CDATA[]]></class>
+			<class><![CDATA[active]]></class>
 		</tab>
 		
 		<tab tab_id="03">
@@ -346,7 +298,7 @@
 		
 		<title><![CDATA[South Pacific Wanderlust]]></title>
 		<ship><![CDATA[Crystal Serenity]]></ship>
-		<category><![CDATA[Category C3, Deluxe Stateroom with Large Picture Window]]></category>
+		<category><![CDATA[C3, Deluxe Stateroom with Large Picture Window]]></category>
 		<pricing><![CDATA[Pricing is per person based on double occupancy and subject to change and availability; please contact us for details.]]></pricing>
 		
 		<departure_date><![CDATA[Jan 21, 2021]]></departure_date> <!-- Mmm DD, 2020 -->
