@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-	<cruise issue="YYQQ" cruise_id="cruiseID" type="featured">
-		<cruise_id><![CDATA[cruiseID]]></cruise_id>
-		<supplier_id><![CDATA[SupplierID]]></supplier_id>
-		<supplier_name><![CDATA[SupplierName]]></supplier_name>
+	<cruise issue="2003" cruise_id="01" type="featured">
+		<cruise_id><![CDATA[01]]></cruise_id>
+		<supplier_id><![CDATA[reg]]></supplier_id>
+		<supplier_name><![CDATA[Regent Seven Seas Cruises]]></supplier_name>
 		
 		<title><![CDATA[cruiseTitle]]></title>
 		<ship><![CDATA[shipName]]></ship>
 		<category><![CDATA[shipCategory]]></category>
-		<pricing><![CDATA[Pricing is per person based on double occupancy]]></pricing>
+		<pricing><![CDATA[Pricing is per person based on double occupancy and subject to change and availability; please contact us for details.]]></pricing>
 		
-		<departure_date><![CDATA[cruiseDeparture]]></departure_date> <!-- Mmm DD, YYYY -->
+		<departure_date><![CDATA[cruiseDeparture]]></departure_date> <!-- Mmm DD, 2020 -->
 		<duration><![CDATA[numberNights]]></duration>
 		<embarkation><![CDATA[embarkationPort]]></embarkation>
 		<disembarkation><![CDATA[disembarkationPort]]></disembarkation>
@@ -33,7 +33,7 @@
 			<icon>suitcase</icon>
 			<event_title><![CDATA[eventTitle]]></event_title>
 			<event_location><![CDATA[eventLocation]]></event_location>
-			<event_date><![CDATA[eventDate]]></event_date> <!-- Mmm DD, YYYY -->
+			<event_date><![CDATA[eventDate]]></event_date> <!-- Mmm DD, 2020 -->
 			<event_depart><![CDATA[Departs hmm]]></event_depart>
 			<event_return><![CDATA[Returns hmm]]></event_return>
 			<event_divider><![CDATA[ &nbsp;|&nbsp; ]]></event_divider>
@@ -46,7 +46,346 @@
 		<tab tab_id="02">
 			<tab_id>ports</tab_id>
 			<title><![CDATA[Ports]]></title>
-			<img>cruiseID.jpg</img>
+			<img>01.jpg</img>
+			<icon>anchor</icon>
+			<content><![CDATA[
+				<p></p>
+			]]></content>
+			<class><![CDATA[]]></class>
+		</tab>
+		
+		<tab tab_id="03">
+			<tab_id>amenities</tab_id>
+			<title><![CDATA[Amenities]]></title>
+			<img>spacer.gif</img>
+			<icon>plus-circle</icon>
+			<content><![CDATA[
+				<p></p>
+			]]></content>
+			<class><![CDATA[]]></class>
+		</tab>
+		
+		<tab tab_id="04">
+			<tab_id>inclusions</tab_id>
+			<title><![CDATA[Inclusions]]></title>
+			<img>spacer.gif</img>
+			<icon>check-circle</icon>
+			<content><![CDATA[
+				<p></p>
+			]]></content>
+			<class><![CDATA[]]></class>
+		</tab>
+		
+		<terms><![CDATA[cruiseTerms]]></terms>
+	</cruise>
+	
+	<cruise issue="2003" cruise_id="02" type="featured">
+		<cruise_id><![CDATA[02]]></cruise_id>
+		<supplier_id><![CDATA[reg]]></supplier_id>
+		<supplier_name><![CDATA[Regent Seven Seas Cruises]]></supplier_name>
+		
+		<title><![CDATA[cruiseTitle]]></title>
+		<ship><![CDATA[shipName]]></ship>
+		<category><![CDATA[shipCategory]]></category>
+		<pricing><![CDATA[Pricing is per person based on double occupancy and subject to change and availability; please contact us for details.]]></pricing>
+		
+		<departure_date><![CDATA[cruiseDeparture]]></departure_date> <!-- Mmm DD, 2020 -->
+		<duration><![CDATA[numberNights]]></duration>
+		<embarkation><![CDATA[embarkationPort]]></embarkation>
+		<disembarkation><![CDATA[disembarkationPort]]></disembarkation>
+		
+		<cost_us><![CDATA[costUS]]></cost_us>
+		<tax_us><![CDATA[taxUS]]></tax_us>
+		<currency_us><![CDATA[USD]]></currency_us>
+		
+		<cost_ca><![CDATA[costCA]]></cost_ca>
+		<tax_ca><![CDATA[taxCA]]></tax_ca>
+		<currency_ca><![CDATA[CAD]]></currency_ca>
+		
+		<lead><![CDATA[cruiseLead]]></lead>
+		<intro><![CDATA[  ]]></intro>
+		
+		<tab tab_id="01">
+			<tab_id>shoreEvent</tab_id>
+			<title><![CDATA[Shore Event]]></title>
+			<img>spacer.gif</img>
+			<icon>suitcase</icon>
+			<event_title><![CDATA[eventTitle]]></event_title>
+			<event_location><![CDATA[eventLocation]]></event_location>
+			<event_date><![CDATA[eventDate]]></event_date> <!-- Mmm DD, 2020 -->
+			<event_depart><![CDATA[Departs hmm]]></event_depart>
+			<event_return><![CDATA[Returns hmm]]></event_return>
+			<event_divider><![CDATA[ &nbsp;|&nbsp; ]]></event_divider>
+			<content><![CDATA[
+				<p></p>
+			]]></content>
+			<class><![CDATA[active]]></class>
+		</tab>
+		
+		<tab tab_id="02">
+			<tab_id>ports</tab_id>
+			<title><![CDATA[Ports]]></title>
+			<img>02.jpg</img>
+			<icon>anchor</icon>
+			<content><![CDATA[
+				<p></p>
+			]]></content>
+			<class><![CDATA[]]></class>
+		</tab>
+		
+		<tab tab_id="03">
+			<tab_id>amenities</tab_id>
+			<title><![CDATA[Amenities]]></title>
+			<img>spacer.gif</img>
+			<icon>plus-circle</icon>
+			<content><![CDATA[
+				<p></p>
+			]]></content>
+			<class><![CDATA[]]></class>
+		</tab>
+		
+		<tab tab_id="04">
+			<tab_id>inclusions</tab_id>
+			<title><![CDATA[Inclusions]]></title>
+			<img>spacer.gif</img>
+			<icon>check-circle</icon>
+			<content><![CDATA[
+				<p></p>
+			]]></content>
+			<class><![CDATA[]]></class>
+		</tab>
+		
+		<terms><![CDATA[cruiseTerms]]></terms>
+	</cruise>
+	
+	<cruise issue="2003" cruise_id="03" type="featured">
+		<cruise_id><![CDATA[03]]></cruise_id>
+		<supplier_id><![CDATA[reg]]></supplier_id>
+		<supplier_name><![CDATA[Regent Seven Seas Cruises]]></supplier_name>
+		
+		<title><![CDATA[cruiseTitle]]></title>
+		<ship><![CDATA[shipName]]></ship>
+		<category><![CDATA[shipCategory]]></category>
+		<pricing><![CDATA[Pricing is per person based on double occupancy and subject to change and availability; please contact us for details.]]></pricing>
+		
+		<departure_date><![CDATA[cruiseDeparture]]></departure_date> <!-- Mmm DD, 2020 -->
+		<duration><![CDATA[numberNights]]></duration>
+		<embarkation><![CDATA[embarkationPort]]></embarkation>
+		<disembarkation><![CDATA[disembarkationPort]]></disembarkation>
+		
+		<cost_us><![CDATA[costUS]]></cost_us>
+		<tax_us><![CDATA[taxUS]]></tax_us>
+		<currency_us><![CDATA[USD]]></currency_us>
+		
+		<cost_ca><![CDATA[costCA]]></cost_ca>
+		<tax_ca><![CDATA[taxCA]]></tax_ca>
+		<currency_ca><![CDATA[CAD]]></currency_ca>
+		
+		<lead><![CDATA[cruiseLead]]></lead>
+		<intro><![CDATA[  ]]></intro>
+		
+		<tab tab_id="01">
+			<tab_id>shoreEvent</tab_id>
+			<title><![CDATA[Shore Event]]></title>
+			<img>spacer.gif</img>
+			<icon>suitcase</icon>
+			<event_title><![CDATA[eventTitle]]></event_title>
+			<event_location><![CDATA[eventLocation]]></event_location>
+			<event_date><![CDATA[eventDate]]></event_date> <!-- Mmm DD, 2020 -->
+			<event_depart><![CDATA[Departs hmm]]></event_depart>
+			<event_return><![CDATA[Returns hmm]]></event_return>
+			<event_divider><![CDATA[ &nbsp;|&nbsp; ]]></event_divider>
+			<content><![CDATA[
+				<p></p>
+			]]></content>
+			<class><![CDATA[active]]></class>
+		</tab>
+		
+		<tab tab_id="02">
+			<tab_id>ports</tab_id>
+			<title><![CDATA[Ports]]></title>
+			<img>03.jpg</img>
+			<icon>anchor</icon>
+			<content><![CDATA[
+				<p></p>
+			]]></content>
+			<class><![CDATA[]]></class>
+		</tab>
+		
+		<tab tab_id="03">
+			<tab_id>amenities</tab_id>
+			<title><![CDATA[Amenities]]></title>
+			<img>spacer.gif</img>
+			<icon>plus-circle</icon>
+			<content><![CDATA[
+				<p></p>
+			]]></content>
+			<class><![CDATA[]]></class>
+		</tab>
+		
+		<tab tab_id="04">
+			<tab_id>inclusions</tab_id>
+			<title><![CDATA[Inclusions]]></title>
+			<img>spacer.gif</img>
+			<icon>check-circle</icon>
+			<content><![CDATA[
+				<p></p>
+			]]></content>
+			<class><![CDATA[]]></class>
+		</tab>
+		
+		<terms><![CDATA[cruiseTerms]]></terms>
+	</cruise>
+	
+	<cruise issue="2003" cruise_id="04" type="">
+		<cruise_id><![CDATA[04]]></cruise_id>
+		<supplier_id><![CDATA[crc]]></supplier_id>
+		<supplier_name><![CDATA[Crystal Cruises]]></supplier_name>
+		
+		<title><![CDATA[South Pacific Wanderlust]]></title>
+		<ship><![CDATA[Crystal Serenity]]></ship>
+		<category><![CDATA[Category C3, Deluxe Stateroom with Large Picture Window]]></category>
+		<pricing><![CDATA[Pricing is per person based on double occupancy and subject to change and availability; please contact us for details.]]></pricing>
+		
+		<departure_date><![CDATA[Jan 21, 2021]]></departure_date> <!-- Mmm DD, 2020 -->
+		<duration><![CDATA[21]]></duration>
+		<embarkation><![CDATA[Los Angeles, CA]]></embarkation>
+		<disembarkation><![CDATA[Brisbane, AU]]></disembarkation>
+		
+		<cost_us><![CDATA[5,949]]></cost_us>
+		<tax_us><![CDATA[1,155]]></tax_us>
+		<currency_us><![CDATA[USD]]></currency_us>
+		
+		<cost_ca><![CDATA[]]></cost_ca>
+		<tax_ca><![CDATA[]]></tax_ca>
+		<currency_ca><![CDATA[CAD]]></currency_ca>
+		
+		<lead><![CDATA[From Oahu’s Diamond Head Crater and Maui’s Haleakala volcano to the coral atoll of Kiribati and New Caledonia’s magnificent coral reef, here is a voyage of blissful tropical discovery.]]></lead>
+		<intro><![CDATA[]]></intro>
+		
+		<tab tab_id="01">
+			<tab_id>shoreEvent</tab_id>
+			<title><![CDATA[Shore Event]]></title>
+			<img>spacer.gif</img>
+			<icon>suitcase</icon>
+			<event_title><![CDATA[eventTitle]]></event_title>
+			<event_location><![CDATA[Lahaina, HI]]></event_location>
+			<event_date><![CDATA[eventDate]]></event_date> <!-- Mmm DD, 2020 -->
+			<event_depart><![CDATA[Departs hmm]]></event_depart>
+			<event_return><![CDATA[Returns hmm]]></event_return>
+			<event_divider><![CDATA[ &nbsp;|&nbsp; ]]></event_divider>
+			<content><![CDATA[
+				<p></p>
+			]]></content>
+			<class><![CDATA[active]]></class>
+		</tab>
+		
+		<tab tab_id="02">
+			<tab_id>ports</tab_id>
+			<title><![CDATA[Ports]]></title>
+			<img>04.jpg</img>
+			<icon>anchor</icon>
+			<content><![CDATA[
+				<ul>
+					<li>Los Angeles, California, USA</li>
+					<li>Honolulu/Oahu, Hawaii, USA (Overnight)</li>
+					<li>Lahaina/Maui, Hawaii, USA</li>
+					<li>Fanning Island, Kiribati</li>
+					<li>Cross International Date Line</li>
+					<li>Mystery Island, Vanuatu</li>
+					<li>Noum&eacute;a, New Caledonia</li>
+					<li>Brisbane, Australia (Overnight)</li>
+				</ul>
+			]]></content>
+			<class><![CDATA[]]></class>
+		</tab>
+		
+		<tab tab_id="03">
+			<tab_id>amenities</tab_id>
+			<title><![CDATA[Amenities]]></title>
+			<img>spacer.gif</img>
+			<icon>plus-circle</icon>
+			<content><![CDATA[
+				<ul>
+					<li>Acclaimed dining in up to ten elegant venues, including Nobu Matsuhisa&rsquo;s only sea-going restaurants.</li>
+					<li>Complimentary 24-hour Room Service</li>
+					<li>Fully equipped Fitness Center and Crystal Life Spa</li>
+					<li>Complimentary men&rsquo;s and women&rsquo;s steam and sauna</li>
+					<li>Crystal Visions Enrichment Series, featuring interactive and engaging presentations from leading world experts, celebrities, authors and ambassadors.</li>
+					<li>Enrichment through the innovative Creative Learning Institute and Computer University@Sea with classes from photography to digital filmmaking to world languages and art.</li>
+				</ul>
+			]]></content>
+			<class><![CDATA[]]></class>
+		</tab>
+		
+		<tab tab_id="04">
+			<tab_id>inclusions</tab_id>
+			<title><![CDATA[Inclusions]]></title>
+			<img>spacer.gif</img>
+			<icon>check-circle</icon>
+			<content><![CDATA[
+				<ul>
+					<li>Unlimited fine wines, premium spirits and champagne</li>
+					<li>FREE unlimited Wi-Fi</li>
+					<li>All gratuities for housekeeping, bar and dining staff throughout the ship</li>
+					<li>Complimentary Wellness programs with classes in yoga mat Pilates and Spinning, PGA golf instruction</li>
+				</ul>
+			]]></content>
+			<class><![CDATA[]]></class>
+		</tab>
+		
+		<terms><![CDATA[
+			Easy Book Policy: Valid on 2021, 2022 and 2023 Crystal voyages for new bookings only made between May 15, 2020 and June 30, 2020. Program offers a limited-time reduced deposit of 15% and waives the standard per person administration fee for a full deposit refund when booking is cancelled prior to published cancellation / final payment schedules for Crystal Cruises: 120 days prior to first date of service for voyages of 13 days or less; 150 days for voyages of 14&ndash;21 days; and 180 days for voyages of 22 days or longer. Easy Book is combinable with any of the following offers that may apply: Crystal Society Savings, Back to Back Savings, Early Final Payment Savings, Strategic Partner Amenities, Future Cruise Credits (FCCs), Future Cruise Payments (FCPs) and Crystal Assured Savings. Easy Book is not combinable with Crystal programs which require payment in full at the time of booking including, but not limited to, Flex Fares and Advance Purchase Savings (for River). Program is valid for first two full-fare guests in stateroom or suite, is capacity-controlled and subject to availability, and may be withdrawn or changed at any time without notice. Other restrictions apply. Ask for details.<br /><br />* All fares are cruise only, in U.S. dollars and do not include taxes, fees, and port charges of $1,155 per person. Brochure Fares and Book Now Fares are per person based on double occupancy. Your Low Solo Fares (when shown) are per person based on single occupancy; Flex Fares (when shown) are per person based on double occupancy (third berth not available). Book Now Savings are subject to availability at time of booking. Book Now Fares and Low Solo Fares include Crystal Savings and do not include Crystal Society or Early Full Payment savings. Early Full Payment saving is based on the fare after all other discounts are applied. Final payments for these sailings will follow the standard payment schedules of 120 days (cruises up to 13-nights), 150 days (cruises from 14- to 21-nights) and 180 days (cruises from 22-nights or more) from first date of service, other restrictions may apply. Optional Personal Select Air Program is available to purchase for full-fare, full-cruise guests whose travel originates from a U.S. or Canadian airport and includes all government taxes and fees. Note: Early Full Payment savings do not apply to Personal select Air. All promotions, offers and discounts including but not limited to Crystal Society savings and Onboard Booking discounts apply to first two full-fare guests only in stateroom or suite, are not combinable with other promotions, capacity controlled, subject to availability and may be withdrawn or changed at any time without notice. For complete Cruise Fare and Promotional Information and General Ticket Terms and Conditions, contact your travel advisor.<br /><br />Crystal Cruises, LLC reserves the right to correct errors or omissions and change any and all fares, fees, promotions and programs at any time without notice.
+		]]></terms>
+	</cruise>
+	
+	<cruise issue="2003" cruise_id="05" type="">
+		<cruise_id><![CDATA[05]]></cruise_id>
+		<supplier_id><![CDATA[ocn]]></supplier_id>
+		<supplier_name><![CDATA[Oceania Cruises]]></supplier_name>
+		
+		<title><![CDATA[cruiseTitle]]></title>
+		<ship><![CDATA[shipName]]></ship>
+		<category><![CDATA[shipCategory]]></category>
+		<pricing><![CDATA[Pricing is per person based on double occupancy and subject to change and availability; please contact us for details.]]></pricing>
+		
+		<departure_date><![CDATA[cruiseDeparture]]></departure_date> <!-- Mmm DD, 2020 -->
+		<duration><![CDATA[numberNights]]></duration>
+		<embarkation><![CDATA[embarkationPort]]></embarkation>
+		<disembarkation><![CDATA[disembarkationPort]]></disembarkation>
+		
+		<cost_us><![CDATA[costUS]]></cost_us>
+		<tax_us><![CDATA[taxUS]]></tax_us>
+		<currency_us><![CDATA[USD]]></currency_us>
+		
+		<cost_ca><![CDATA[costCA]]></cost_ca>
+		<tax_ca><![CDATA[taxCA]]></tax_ca>
+		<currency_ca><![CDATA[CAD]]></currency_ca>
+		
+		<lead><![CDATA[cruiseLead]]></lead>
+		<intro><![CDATA[  ]]></intro>
+		
+		<tab tab_id="01">
+			<tab_id>shoreEvent</tab_id>
+			<title><![CDATA[Shore Event]]></title>
+			<img>spacer.gif</img>
+			<icon>suitcase</icon>
+			<event_title><![CDATA[eventTitle]]></event_title>
+			<event_location><![CDATA[eventLocation]]></event_location>
+			<event_date><![CDATA[eventDate]]></event_date> <!-- Mmm DD, 2020 -->
+			<event_depart><![CDATA[Departs hmm]]></event_depart>
+			<event_return><![CDATA[Returns hmm]]></event_return>
+			<event_divider><![CDATA[ &nbsp;|&nbsp; ]]></event_divider>
+			<content><![CDATA[
+				<p></p>
+			]]></content>
+			<class><![CDATA[active]]></class>
+		</tab>
+		
+		<tab tab_id="02">
+			<tab_id>ports</tab_id>
+			<title><![CDATA[Ports]]></title>
+			<img>05.jpg</img>
 			<icon>anchor</icon>
 			<content><![CDATA[
 				<p></p>
