@@ -327,9 +327,7 @@
 			<event_date><![CDATA[TBD]]></event_date> <!-- Mmm DD, 2020 -->
 			<event_depart><![CDATA[TBD]]></event_depart>
 			<event_return><![CDATA[TBD]]></event_return>
-			<content><![CDATA[
-				<p></p>
-			]]></content>
+			<content><![CDATA[]]></content>
 			<class><![CDATA[active]]></class>
 		</tab>
 		
