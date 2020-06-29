@@ -34,9 +34,8 @@
 			<event_title><![CDATA[eventTitle]]></event_title>
 			<event_location><![CDATA[eventLocation]]></event_location>
 			<event_date><![CDATA[eventDate]]></event_date> <!-- Mmm DD, 2020 -->
-			<event_depart><![CDATA[Departs hmm]]></event_depart>
-			<event_return><![CDATA[Returns hmm]]></event_return>
-			<event_divider><![CDATA[ &nbsp;|&nbsp; ]]></event_divider>
+			<event_depart><![CDATA[hmm]]></event_depart>
+			<event_return><![CDATA[hmm]]></event_return>
 			<content><![CDATA[
 				<p></p>
 			]]></content>
@@ -113,9 +112,8 @@
 			<event_title><![CDATA[eventTitle]]></event_title>
 			<event_location><![CDATA[eventLocation]]></event_location>
 			<event_date><![CDATA[eventDate]]></event_date> <!-- Mmm DD, 2020 -->
-			<event_depart><![CDATA[Departs hmm]]></event_depart>
-			<event_return><![CDATA[Returns hmm]]></event_return>
-			<event_divider><![CDATA[ &nbsp;|&nbsp; ]]></event_divider>
+			<event_depart><![CDATA[hmm]]></event_depart>
+			<event_return><![CDATA[hmm]]></event_return>
 			<content><![CDATA[
 				<p></p>
 			]]></content>
@@ -192,9 +190,8 @@
 			<event_title><![CDATA[eventTitle]]></event_title>
 			<event_location><![CDATA[eventLocation]]></event_location>
 			<event_date><![CDATA[eventDate]]></event_date> <!-- Mmm DD, 2020 -->
-			<event_depart><![CDATA[Departs hmm]]></event_depart>
-			<event_return><![CDATA[Returns hmm]]></event_return>
-			<event_divider><![CDATA[ &nbsp;|&nbsp; ]]></event_divider>
+			<event_depart><![CDATA[hmm]]></event_depart>
+			<event_return><![CDATA[hmm]]></event_return>
 			<content><![CDATA[
 				<p></p>
 			]]></content>
@@ -273,7 +270,6 @@
 			<event_date><![CDATA[TBD]]></event_date> <!-- Mmm DD, 2020 -->
 			<event_depart><![CDATA[TBD]]></event_depart>
 			<event_return><![CDATA[TBD]]></event_return>
-			<event_divider><![CDATA[ &nbsp;|&nbsp; ]]></event_divider>
 			<content><![CDATA[
 				<p></p>
 			]]></content>
@@ -344,40 +340,44 @@
 		<supplier_id><![CDATA[ocn]]></supplier_id>
 		<supplier_name><![CDATA[Oceania Cruises]]></supplier_name>
 		
-		<title><![CDATA[cruiseTitle]]></title>
-		<ship><![CDATA[shipName]]></ship>
-		<category><![CDATA[shipCategory]]></category>
+		<title><![CDATA[Enchanting Mediterranean]]></title>
+		<ship><![CDATA[Riviera]]></ship>
+		<category><![CDATA[Inside]]></category>
 		<pricing><![CDATA[Pricing is per person based on double occupancy and subject to change and availability; please contact us for details.]]></pricing>
 		
-		<departure_date><![CDATA[cruiseDeparture]]></departure_date> <!-- Mmm DD, 2020 -->
-		<duration><![CDATA[numberNights]]></duration>
+		<departure_date><![CDATA[May 5, 2021]]></departure_date> <!-- Mmm DD, 2020 -->
+		<duration><![CDATA[7]]></duration>
 		<embarkation><![CDATA[embarkationPort]]></embarkation>
 		<disembarkation><![CDATA[disembarkationPort]]></disembarkation>
 		
-		<cost_us><![CDATA[costUS]]></cost_us>
-		<tax_us><![CDATA[taxUS]]></tax_us>
+		<cost_us><![CDATA[2,399]]></cost_us>
+		<tax_us><![CDATA[]]></tax_us>
 		<currency_us><![CDATA[USD]]></currency_us>
 		
-		<cost_ca><![CDATA[costCA]]></cost_ca>
-		<tax_ca><![CDATA[taxCA]]></tax_ca>
+		<cost_ca><![CDATA[3,249]]></cost_ca>
+		<tax_ca><![CDATA[]]></tax_ca>
 		<currency_ca><![CDATA[CAD]]></currency_ca>
 		
-		<lead><![CDATA[cruiseLead]]></lead>
-		<intro><![CDATA[  ]]></intro>
+		<lead><![CDATA[<strong>Old World Isles & Inlets:</strong> See iconic highlights of the Western Mediterranean on a marvelous sojourn that showcases the stirring scenery of Provence, the resplendent villages of Cinque Terre, the triumphs of Tuscany and the romance of Monte Carlo.]]></lead>
+		<intro><![CDATA[]]></intro>
 		
 		<tab tab_id="01">
 			<tab_id>shoreEvent</tab_id>
 			<title><![CDATA[Shore Event]]></title>
 			<img>spacer.gif</img>
 			<icon>suitcase</icon>
-			<event_title><![CDATA[eventTitle]]></event_title>
-			<event_location><![CDATA[eventLocation]]></event_location>
-			<event_date><![CDATA[eventDate]]></event_date> <!-- Mmm DD, 2020 -->
-			<event_depart><![CDATA[Departs hmm]]></event_depart>
-			<event_return><![CDATA[Returns hmm]]></event_return>
-			<event_divider><![CDATA[ &nbsp;|&nbsp; ]]></event_divider>
+			<event_title><![CDATA[Village of Sainte-Agnès and WWII Fort Maginot]]></event_title>
+			<event_location><![CDATA[Sainte-Agn&egrave;s, FR]]></event_location>
+			<event_date><![CDATA[TBD]]></event_date> <!-- Mmm DD, 2020 -->
+			<event_depart><![CDATA[TBD]]></event_depart>
+			<event_return><![CDATA[TBD]]></event_return>
 			<content><![CDATA[
-				<p></p>
+				<p>On this Ensemble Experience, you&rsquo;ll <strong>head off the beaten track </strong>to a lesser known area of the beautiful Cote d&rsquo;Azur region. Relax on your coach and enjoy the scenic uphill drive towards the pre-alp mountains and <strong>the picturesque village of Sainte-Agn&egrave;s</strong>.</p>
+				<p>Perched overlooking the sea and mountains, this <strong>medieval hidden gem </strong>claims to be the highest coastal village in Europe. Sainte-Agn&egrave;s is also <strong>classified as one of the most beautiful villages in France</strong>. The coach will drop you at the foot of the village and you can enjoy a nice uphill walk to a vista point overlooking the Mediterranean Sea, before entering <strong>the historical Fort Maginot</strong>.</p>
+				<p>A local historian will guide you through this military fort, created between 1932 and 1938 to protect the French border. It&rsquo;s <strong>part of the famous &ldquo;Maginot Line&rdquo; fortification </strong>which was built during the 1st and 2nd World Wars,&nbsp;starting at the Mediterranean Sea, along the Italian, Swiss and German borders all the way to Luxembourg.</p>
+				<p><strong>Discover the underground rooms with state-of-the-art equipment </strong>for the time. Although the village only had running water and sewerage in 1960, the fort had these amenities as early as 1938. In addition, a power plant supplied central heating, telephone, regulated air and a neutralization room against combat gas. The Fort could accommodate 350 troops living there in complete self-sufficiency for 3 months.</p>
+				<p>A short documentary video will give you more details about the history of the occupation in Sainte Agn&egrave;s.</p>
+				<p>Afterwards<strong>, enjoy some time to stroll </strong>around the charming village before savoring some <strong>refreshments at a local restaurant</strong>.</p>
 			]]></content>
 			<class><![CDATA[active]]></class>
 		</tab>
@@ -388,7 +388,16 @@
 			<img>05.jpg</img>
 			<icon>anchor</icon>
 			<content><![CDATA[
-				<p></p>
+				<ul>
+					<li>Barcelona</li>
+					<li>Palma De Mallorca</li>
+					<li>Provence (Marseille)</li>
+					<li>Monte Carlo</li>
+					<li>Ajaccio (Corsica)</li>
+					<li>Cinque Terre (La Spezia)</li>
+					<li>Florence/Pisa/Tuscany (Livorno)</li>
+					<li>Rome (Civitavecchia)</li>
+				</ul>
 			]]></content>
 			<class><![CDATA[]]></class>
 		</tab>
@@ -399,7 +408,16 @@
 			<img>spacer.gif</img>
 			<icon>plus-circle</icon>
 			<content><![CDATA[
-				<p></p>
+				<ul>
+					<li>FREE Internet</li>
+					<li>FREE Specialty Restaurants</li>
+					<li>FREE Room Service 24 Hours a Day</li>
+					<li>FREE Shuttles from Port to City Center</li>
+					<li>FREE Fitness Classes</li>
+					<li>FREE Still &amp; Sparkling Vero Water</li>
+					<li>FREE Soft Drinks &amp; Specialty Coffees</li>
+					<li>FREE Launderette</li>
+				</ul>
 			]]></content>
 			<class><![CDATA[]]></class>
 		</tab>
@@ -410,11 +428,19 @@
 			<img>spacer.gif</img>
 			<icon>check-circle</icon>
 			<content><![CDATA[
-				<p></p>
+				<p>With the Ultimate Sale explore the world at truly unrivaled savings. These historic price reductions are on top of the already phenomenal value represented by Oceania Cruises&rsquo; popular <em>OLife Choice </em>package, which includes Roundtrip Airfare*, a FREE amenity of your choice and much more!</p>
+				<ul>
+					<li>FREE - 4 Shore Excursions</li>
+					<li>FREE - Beverage Package</li>
+					<li>FREE - $400 Shipboard Credit</li>
+					<li>Amenities are per stateroom</li>
+				</ul>
 			]]></content>
 			<class><![CDATA[]]></class>
 		</tab>
 		
-		<terms><![CDATA[cruiseTerms]]></terms>
+		<terms><![CDATA[
+			<strong>THE ULTIMATE SALE</strong><br /><br />*Offers and fares are subject to change on 10/1/20. Contact your Travel Advisor for current pricing. All fares are per person in U.S. dollars, valid for residents of United States and Canada, based on double occupancy (unless otherwise noted), for new bookings only and may be withdrawn at any time. Premium Economy Air Upgrade is only available when air is purchased through Oceania Cruises. It applies to intercontinental flights only and is priced per person, each way, on select voyages from select gateways, open to all categories for Europe embark and disembark ports only and based on availability. Not all amenities will be available on all carriers. Free Internet amenity does not include streaming and includes one login per stateroom, except Owner&rsquo;s, Vista &amp; Oceania Suites, which receive two logins per suite. <em>OLife Choice</em> amenities are per stateroom, based on double occupancy and subject to change. <em>OLife Choice</em> free shore excursions vary by voyage and exclude Oceania Select, Oceania Exclusive, Executive Collection, Food &amp; Wine Trails, Wellness Discovery Tours by Aquamar, Go Local,and Culinary Discovery Tours. Voyages up to 9 days receive 4 free shore excursions; 10-13 days receive 6 free shore excursions; 14+ days receive 8 free shore excursions. If shore excursion amenity is selected, all excursions must be chosen at least 14 days prior to sailing.<em> OLife Choice</em> beverage package amenity is House Select. Guests in the same stateroom must choose the same <em>OLife Choice</em> amenity, and amenity must be chosen by final payment. Not all promotions are combinable. 2 for 1, <em>OLife Choice</em> and Cruise-Only Fares are based on published. Full Brochure Fares; such fares may not have resulted in actual sales in all suite and stateroom categories and do not include optional charges as detailed in the Guest Ticket Contract. Cruise-Only Fares do not include <em>OLife Choice</em> amenities or airfare. All Fares include government fees &amp; taxes. &ldquo;Airfare&rdquo; does not include ground transfers, and offer applies to coach, roundtrip flights only from the following airports: ATL, BOS, CLT, DCA, DEN, DFW, DTW, EWR, IAH, IAD, JFK, LAX, LGA, MCO, MDW, MIA, ORD, PHL, PHX, SAN, SAV, SEA, SFO, TPA, YOW, YUL, YVR, YYZ.Oceania Cruises reserves the right to assign gateways based on availability for JFK, LGA and MIA. Gateways are subject to change at any time. Airfare is available from all other U.S. and Canadian gateways for an additional charge. &ldquo;Airfare&rdquo; includes all airline fees, surcharges and government taxes. Airline-imposed personal charges such as baggage fees may apply. Oceania Cruises reserves the right to correct errors or omissions and to change any and all fares, fees, promotions and surcharges at any time. Ships&rsquo; Registry: Marshall Islands.
+		]]></terms>
 	</cruise>
 </root>
