@@ -268,11 +268,11 @@
 			<title><![CDATA[Shore Event]]></title>
 			<img>spacer.gif</img>
 			<icon>suitcase</icon>
-			<event_title><![CDATA[eventTitle]]></event_title>
+			<event_title><![CDATA[Discover Lahaina]]></event_title>
 			<event_location><![CDATA[Lahaina, HI]]></event_location>
-			<event_date><![CDATA[eventDate]]></event_date> <!-- Mmm DD, 2020 -->
-			<event_depart><![CDATA[Departs hmm]]></event_depart>
-			<event_return><![CDATA[Returns hmm]]></event_return>
+			<event_date><![CDATA[TBD]]></event_date> <!-- Mmm DD, 2020 -->
+			<event_depart><![CDATA[TBD]]></event_depart>
+			<event_return><![CDATA[TBD]]></event_return>
 			<event_divider><![CDATA[ &nbsp;|&nbsp; ]]></event_divider>
 			<content><![CDATA[
 				<p></p>
