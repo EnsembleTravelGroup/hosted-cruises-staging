@@ -2,11 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66283bb2-ebcb-4736-a305-c89e2fb89df4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/20/03/xml/cruise.xml" beforeDir="false" afterPath="$PROJECT_DIR$/20/03/xml/cruise.xml" afterDir="false" />
-    </list>
-    <list id="7c977374-b09b-4b65-9116-b3ad7f3d7311" name="DO NOT COMMIT" comment="">
+      <change afterPath="$PROJECT_DIR$/20/03/img/partner/accommodations.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20/03/img/partner/dining.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20/03/img/partner/ships.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20/03/img/email/01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/20/03/img/email/01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20/03/img/email/02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/20/03/img/email/02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20/03/img/email/03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/20/03/img/email/03.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20/03/img/hero/01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/20/03/img/hero/01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20/03/img/hero/02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/20/03/img/hero/02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20/03/img/hero/03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/20/03/img/hero/03.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20/03/img/hero/partner.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/20/03/img/hero/partner.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20/03/img/map/01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/20/03/img/map/01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20/03/img/map/02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/20/03/img/map/02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20/03/img/map/03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/20/03/img/map/03.jpg" afterDir="false" />
     </list>
+    <list id="7c977374-b09b-4b65-9116-b3ad7f3d7311" name="DO NOT COMMIT" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +56,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="66283bb2-ebcb-4736-a305-c89e2fb89df4" name="Default Changelist" comment="" />
+      <changelist id="7c977374-b09b-4b65-9116-b3ad7f3d7311" name="NO NOT COMMIT" comment="" />
       <created>1579549326619</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -52,7 +64,7 @@
       <workItem from="1579549328134" duration="39000" />
       <workItem from="1593194213723" duration="3307000" />
       <workItem from="1593278376699" duration="1276000" />
-      <workItem from="1593437038216" duration="10086000" />
+      <workItem from="1593437038216" duration="13971000" />
     </task>
     <task id="LOCAL-00001" summary="*Refactoring directories">
       <created>1593204148998</created>
@@ -131,7 +143,28 @@
       <option name="project" value="LOCAL" />
       <updated>1593458216844</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="*Updating cruises xml for July Hosted Cruises">
+      <created>1593458242844</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1593458242844</updated>
+    </task>
+    <task id="LOCAL-00013" summary="*Adding featured partner xml for July Hosted Cruises">
+      <created>1593464501195</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1593464501195</updated>
+    </task>
+    <task id="LOCAL-00014" summary="*Adding featured partner hero image for July Hosted Cruises">
+      <created>1593464783299</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1593464783299</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,7 +180,9 @@
     <MESSAGE value="*Adding featured cruises images for July Hosted Cruises" />
     <MESSAGE value="*Updating featured cruises xml for July Hosted Cruises" />
     <MESSAGE value="*Updating cruises xml for July Hosted Cruises" />
-    <option name="LAST_COMMIT_MESSAGE" value="*Updating cruises xml for July Hosted Cruises" />
+    <MESSAGE value="*Adding featured partner xml for July Hosted Cruises" />
+    <MESSAGE value="*Adding featured partner hero image for July Hosted Cruises" />
+    <option name="LAST_COMMIT_MESSAGE" value="*Adding featured partner hero image for July Hosted Cruises" />
   </component>
   <component name="WindowStateProjectService">
     <state x="723" y="388" key="#Notifications" timestamp="1593205052398">
@@ -158,10 +193,10 @@
       <screen x="0" y="23" width="1680" height="990" />
     </state>
     <state x="304" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.990@0.23.1680.990" timestamp="1593204394295" />
-    <state x="322" y="110" key="CommitChangelistDialog2" timestamp="1593458216429">
+    <state x="322" y="110" key="CommitChangelistDialog2" timestamp="1593464783063">
       <screen x="0" y="23" width="1680" height="990" />
     </state>
-    <state x="322" y="110" key="CommitChangelistDialog2/0.23.1680.990@0.23.1680.990" timestamp="1593458216429" />
+    <state x="322" y="110" key="CommitChangelistDialog2/0.23.1680.990@0.23.1680.990" timestamp="1593464783063" />
     <state x="506" y="245" key="RollbackChangesDialog" timestamp="1593204531302">
       <screen x="0" y="23" width="1680" height="990" />
     </state>
@@ -170,9 +205,9 @@
       <screen x="0" y="23" width="1680" height="990" />
     </state>
     <state x="678" y="394" key="VCS.EditChangelistDialog/0.23.1680.990@0.23.1680.990" timestamp="1593438875657" />
-    <state x="440" y="258" key="Vcs.Push.Dialog.v2" timestamp="1593458041905">
+    <state x="440" y="258" key="Vcs.Push.Dialog.v2" timestamp="1593464785498">
       <screen x="0" y="23" width="1680" height="990" />
     </state>
-    <state x="440" y="258" key="Vcs.Push.Dialog.v2/0.23.1680.990@0.23.1680.990" timestamp="1593458041905" />
+    <state x="440" y="258" key="Vcs.Push.Dialog.v2/0.23.1680.990@0.23.1680.990" timestamp="1593464785498" />
   </component>
 </project>
