@@ -347,8 +347,8 @@
 		
 		<departure_date><![CDATA[May 5, 2021]]></departure_date> <!-- Mmm DD, 2020 -->
 		<duration><![CDATA[7]]></duration>
-		<embarkation><![CDATA[embarkationPort]]></embarkation>
-		<disembarkation><![CDATA[disembarkationPort]]></disembarkation>
+		<embarkation><![CDATA[Barcelona, ES]]></embarkation>
+		<disembarkation><![CDATA[Rome, IT]]></disembarkation>
 		
 		<cost_us><![CDATA[2,399]]></cost_us>
 		<tax_us><![CDATA[]]></tax_us>
