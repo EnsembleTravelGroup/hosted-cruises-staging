@@ -328,7 +328,7 @@
 			<event_depart><![CDATA[TBD]]></event_depart>
 			<event_return><![CDATA[TBD]]></event_return>
 			<content><![CDATA[]]></content>
-			<class><![CDATA[active]]></class>
+			<class><![CDATA[]]></class>
 		</tab>
 		
 		<tab tab_id="02">
@@ -348,7 +348,7 @@
 					<li>Brisbane, Australia (Overnight)</li>
 				</ul>
 			]]></content>
-			<class><![CDATA[]]></class>
+			<class><![CDATA[active]]></class>
 		</tab>
 		
 		<tab tab_id="03">

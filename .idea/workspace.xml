@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66283bb2-ebcb-4736-a305-c89e2fb89df4" name="Default Changelist" comment="" />
+    <list default="true" id="66283bb2-ebcb-4736-a305-c89e2fb89df4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/20/03/xml/cruise.xml" beforeDir="false" afterPath="$PROJECT_DIR$/20/03/xml/cruise.xml" afterDir="false" />
+    </list>
+    <list id="7c977374-b09b-4b65-9116-b3ad7f3d7311" name="DO NOT COMMIT" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +17,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="ProjectId" id="1Wfn4bIxO9RbsmHYoNaiI0G89BX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -44,7 +50,9 @@
       <option name="presentableId" value="Default" />
       <updated>1579549326619</updated>
       <workItem from="1579549328134" duration="39000" />
-      <workItem from="1593194213723" duration="2313000" />
+      <workItem from="1593194213723" duration="3307000" />
+      <workItem from="1593278376699" duration="1276000" />
+      <workItem from="1593437038216" duration="10057000" />
     </task>
     <task id="LOCAL-00001" summary="*Refactoring directories">
       <created>1593204148998</created>
@@ -60,7 +68,63 @@
       <option name="project" value="LOCAL" />
       <updated>1593204968024</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="*Adding xml and images for July Hosted Cruises">
+      <created>1593438919088</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1593438919089</updated>
+    </task>
+    <task id="LOCAL-00004" summary="*Updating cruise.xml for July Hosted Cruises">
+      <created>1593440679276</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1593440679276</updated>
+    </task>
+    <task id="LOCAL-00005" summary="*Updating cruise.xml and images for July Hosted Cruises">
+      <created>1593442309766</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1593442309766</updated>
+    </task>
+    <task id="LOCAL-00006" summary="*Adding embarkation/disembarkation ports for July Hosted Cruises">
+      <created>1593442512293</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1593442512293</updated>
+    </task>
+    <task id="LOCAL-00007" summary="*Adding featured cruises xml for July Hosted Cruises">
+      <created>1593450729033</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1593450729033</updated>
+    </task>
+    <task id="LOCAL-00008" summary="*Adding featured cruises images for July Hosted Cruises">
+      <created>1593451222422</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1593451222422</updated>
+    </task>
+    <task id="LOCAL-00009" summary="*Updating featured cruises xml for July Hosted Cruises">
+      <created>1593457432462</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1593457432462</updated>
+    </task>
+    <task id="LOCAL-00010" summary="*Updating cruises xml for July Hosted Cruises">
+      <created>1593458040204</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1593458040204</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -68,7 +132,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="*Refactoring directories" />
-    <option name="LAST_COMMIT_MESSAGE" value="*Refactoring directories" />
+    <MESSAGE value="*Adding xml and images for July Hosted Cruises" />
+    <MESSAGE value="*Updating cruise.xml for July Hosted Cruises" />
+    <MESSAGE value="*Updating cruise.xml and images for July Hosted Cruises" />
+    <MESSAGE value="*Adding embarkation/disembarkation ports for July Hosted Cruises" />
+    <MESSAGE value="*Adding featured cruises xml for July Hosted Cruises" />
+    <MESSAGE value="*Adding featured cruises images for July Hosted Cruises" />
+    <MESSAGE value="*Updating featured cruises xml for July Hosted Cruises" />
+    <MESSAGE value="*Updating cruises xml for July Hosted Cruises" />
+    <option name="LAST_COMMIT_MESSAGE" value="*Updating cruises xml for July Hosted Cruises" />
   </component>
   <component name="WindowStateProjectService">
     <state x="723" y="388" key="#Notifications" timestamp="1593205052398">
@@ -79,17 +151,21 @@
       <screen x="0" y="23" width="1680" height="990" />
     </state>
     <state x="304" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.990@0.23.1680.990" timestamp="1593204394295" />
-    <state x="322" y="110" key="CommitChangelistDialog2" timestamp="1593204967770">
+    <state x="322" y="110" key="CommitChangelistDialog2" timestamp="1593458039802">
       <screen x="0" y="23" width="1680" height="990" />
     </state>
-    <state x="322" y="110" key="CommitChangelistDialog2/0.23.1680.990@0.23.1680.990" timestamp="1593204967770" />
+    <state x="322" y="110" key="CommitChangelistDialog2/0.23.1680.990@0.23.1680.990" timestamp="1593458039802" />
     <state x="506" y="245" key="RollbackChangesDialog" timestamp="1593204531302">
       <screen x="0" y="23" width="1680" height="990" />
     </state>
     <state x="506" y="245" key="RollbackChangesDialog/0.23.1680.990@0.23.1680.990" timestamp="1593204531302" />
-    <state x="440" y="258" key="Vcs.Push.Dialog.v2" timestamp="1593205025865">
+    <state x="678" y="394" key="VCS.EditChangelistDialog" timestamp="1593438875657">
       <screen x="0" y="23" width="1680" height="990" />
     </state>
-    <state x="440" y="258" key="Vcs.Push.Dialog.v2/0.23.1680.990@0.23.1680.990" timestamp="1593205025865" />
+    <state x="678" y="394" key="VCS.EditChangelistDialog/0.23.1680.990@0.23.1680.990" timestamp="1593438875657" />
+    <state x="440" y="258" key="Vcs.Push.Dialog.v2" timestamp="1593458041905">
+      <screen x="0" y="23" width="1680" height="990" />
+    </state>
+    <state x="440" y="258" key="Vcs.Push.Dialog.v2/0.23.1680.990@0.23.1680.990" timestamp="1593458041905" />
   </component>
 </project>
