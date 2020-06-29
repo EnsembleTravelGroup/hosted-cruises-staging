@@ -1,20 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feature issue="YYQQ" feature_id="01">
-	<pub_date><![CDATA[Mmm 20YY]]></pub_date>
-	<supplier_id><![CDATA[supplierID]]></supplier_id>
-	<supplier_name><![CDATA[supplierName]]></supplier_name>
+<feature issue="2003" feature_id="01">
+	<pub_date><![CDATA[July 2020]]></pub_date>
+	<supplier_id><![CDATA[reg]]></supplier_id>
+	<supplier_name><![CDATA[Regent Seven Seas Cruises]]></supplier_name>
 	
-	<lead><![CDATA[partnerLead]]></lead>
-	<intro><![CDATA[partnerIntro]]></intro>
+	<lead><![CDATA[]]></lead>
+	<intro><![CDATA[
+		<h4>They Are the Moment Makers</h4>
+		<p>Regent Seven Seas is your consummate host. They deliver the pinnacle of ocean cruising, with every luxury included, knowing your delight is in the details. Whether you seek a quiet night alone, are looking to socialize or are simply excited to explore the world, they look forward to welcoming you aboard.</p>
+		<h4>Your Consummate Host</h4>
+		<p>Regent Seven Seas believes luxury exists in the smallest details, the most attentive service and the most inviting atmosphere. Come aboard and allow them to create opportunities for you to embrace the moment, so that you can create memories that will last a lifetime.</p>
+		<h4>Every Luxury Included</h4>
+		<p>They take care of everything, so you don&rsquo;t need to do anything except enjoy your travel. The genuine hospitality and attention to detail of the outstanding crew will carry forward throughout your voyage, from the little touches in your suite to the perfect dining choices made to your taste.</p>
+	]]></intro>
 	
 	<tab tab_id="ships">
 		<tab_id>ships</tab_id>
 		<title><![CDATA[The Ships]]></title>
 		<icon>anchor</icon>
 		<content><![CDATA[
-			<p></p>
+			<p>Bringing you the best in all-inclusive luxury begins with bringing you the most luxurious ships. Their award-winning fleet delivers style and class, from bow to stern, throughout every region of the world. Regent Seven Seas invites you to come aboard and experience your new home away from home.</p>
+			<p>Their newest ship, Seven Seas Splendor&trade; is the next iteration of luxury cruising, from her elegant d&eacute;cor to the crowning Regent Suite &mdash; she&rsquo;ll be luxury perfected.</p>
+			<p>The creation of Seven Seas Explorer&reg; took luxury cruising to the next level, from the 4,443 sq. ft. Regent Suite to the hand-picked art accentuating her halls.</p>
+			<p>The luxurious Seven Seas Voyager&reg; harbors overtones of elegance throughout, from the refined Penthouse Suites to the modern touches of the Voyager Lounge.</p>
+			<p>Class takes on a new meaning with Seven Seas Mariner&reg;, from the delectable offerings of Chartreuse to the debonair atmosphere of the Connoisseur Club.</p>
+			<p>The intimate atmosphere of Seven Seas Navigator&reg; is accompanied by her beautiful style and luxury, from the gorgeous teak pool deck to the superb offerings of Prime 7.</p>
 		]]></content>
-		<img_src>http://www.ensemblehostedcruises.com/files/img/YY/QQ/partner/ships.jpg</img_src>
+		<img_src>http://www.ensemblehostedcruises.com/files/img/20/03/partner/ships.jpg</img_src>
 		<img_caption><![CDATA[The Ships]]></img_caption>
 		<class>active</class>
 	</tab>
@@ -24,9 +36,10 @@
 		<title><![CDATA[Accommodations]]></title>
 		<icon>bed</icon>
 		<content><![CDATA[
-			<p></p>
+			<h4>A Haven on the Water</h4>
+			<p>Step into your elegant suite and discover comforts and amenities that rival the finest hotels and resorts around the globe. Every suite across their five ships delivers incredible ocean views &mdash; 98% of which are enjoyed in the solace of a private balcony. They also include a separate sitting area, the heavenly comfort of our Elite Slumber&trade; beds, spacious closets, an interactive flat-screen TV with complimentary movies on demand, an included minibar stocked daily with your preferences, 24-hour room service and many other prime amenities inviting you to settle in, relax and enjoy your journey.</p>
 		   ]]></content>
-		<img_src>http://www.ensemblehostedcruises.com/files/img/YY/QQ/partner/accommodations.jpg</img_src>
+		<img_src>http://www.ensemblehostedcruises.com/files/img/20/03/partner/accommodations.jpg</img_src>
 		<img_caption><![CDATA[Accommodations]]></img_caption>
 		<class></class>
 	</tab>
@@ -36,9 +49,10 @@
 		<title><![CDATA[Dining]]></title>
 		<icon>cutlery</icon>
 		<content><![CDATA[
-			<p></p>
+			<p>Savor the bouquet and notes of the expertly paired glass of wine provided by the head sommelier and bite into a perfectly cooked and skillfully selected filet mignon at Prime 7. Savor every appetizer at Compass Rose like the perfectly balanced soft-poached egg with black truffle and be transported with the authentic and delectable dishes of Chartreuse, Sette Mari at La Veranda and Pacific Rim.</p>
+			<p>Relax at the Pool Grill with friends after a full day of onshore adventures or simply enjoy the quiet and comfort of your suite with an impeccably prepared meal from the excellent 24-hour room service.</p>
 		   ]]></content>
-		<img_src>http://www.ensemblehostedcruises.com/files/img/YY/QQ/partner/dining.jpg</img_src>
+		<img_src>http://www.ensemblehostedcruises.com/files/img/20/03/partner/dining.jpg</img_src>
 		<img_caption><![CDATA[Dining]]></img_caption>
 		<class></class>
 	</tab>
@@ -48,9 +62,16 @@
 		<title><![CDATA[Activities]]></title>
 		<icon>book</icon>
 		<content><![CDATA[
-			<p></p>
-		   ]]></content>
-		<img_src>http://www.ensemblehostedcruises.com/files/img/YY/QQ/partner/activities.jpg</img_src>
+			<h4>Spa &amp; Fitness</h4>
+			<p>Luxury travel is a holistic experience, one that reenergizes and restores the mind, body and spirit, leaving you with a greater sense of satisfaction and wellbeing. Serene Spa &amp; Wellness&trade; invites you into a globally inspired, tranquil haven of health, beauty and wellness, offering restorative treatments and services to soothe both the body and mind.</p>
+			<h4>Culinary Arts Kitchen</h4>
+			<p>Their exclusively developed Culinary Arts Kitchen classes are more than just a cooking class. Explore the delectable cuisines, robust spices, authentic recipes and local ingredients of the regions you visit as you sharpen your culinary skills.</p>
+			<h4>Evening Entertainment</h4>
+			<p>As the sun sets and the lights go up, the ship comes alive with dynamic theatrical productions featuring their own talented cast of high-caliber performers and guest entertainers. Enjoy the full variety of their evening entertainment designed to engage and delight.</p>
+			<h4>Casino</h4>
+			<p>Take a chance at increasing your good times when you step into the distinguished and stylish onboard casino. Ante up at the poker table, double down in a sizzling game of blackjack, catch a hot streak on a slot machine or place a bet on your favorite number and watch the roulette wheel spin.</p>
+		]]></content>
+		<img_src>http://www.ensemblehostedcruises.com/files/img/20/03/partner/activities.jpg</img_src>
 		<img_caption><![CDATA[Activities]]></img_caption>
 		<class></class>
 	</tab>
@@ -60,9 +81,10 @@
 		<title><![CDATA[Family]]></title>
 		<icon>group</icon>
 		<content><![CDATA[
-			<p></p>
+			<h4>Club Mariner Youth Program</h4>
+			<p>Families with young travelers will enjoy the Club Mariner Youth Program (offered on select sailings). Children ages 5 to 17 can participate in a range of specialized activities, from mini-putt tournaments to dance parties to movie nights. Each program is designed and supervised by friendly and professional youth counselors.&nbsp;</p>
 		]]></content>
-		<img_src>http://www.ensemblehostedcruises.com/files/img/YY/QQ/partner/family.jpg</img_src>
+		<img_src>http://www.ensemblehostedcruises.com/files/img/20/03/partner/family.jpg</img_src>
 		<img_caption><![CDATA[Family]]></img_caption>
 		<class></class>
 	</tab>
@@ -72,21 +94,20 @@
 		<title><![CDATA[Onboard Services]]></title>
 		<icon>bell</icon>
 		<content><![CDATA[
-			<p></p>
+			<p>Regent Seven Seas welcomes the opportunity to create your perfect vacation. Come aboard to discover the difference that comes from a staff and crew comprised of the very best professionals in the hospitality industry, from expert Chefs to decorated Navigational Officers. Experience service like never before.</p>
+			<p>The outstanding attendants and butlers will maintain your suite just the way you like it, ensuring a fresh, warm and comfortable home is awaiting your return each day. The direction of the maître d&rsquo;, the expertise of the chef, the guidance of the sommelier and the attentiveness of the wait staff will make each dining experience feel like a symphony of refined flavors and impeccable service. The officers pride themselves in providing a safe and smooth voyage and should you desire anything &ldquo;off the menu,&rdquo; the concierge staff awaits you, desiring to fulfill your every request.</p>
 		]]></content>
-		<img_src>http://www.ensemblehostedcruises.com/files/img/YY/QQ/partner/services.jpg</img_src>
+		<img_src>http://www.ensemblehostedcruises.com/files/img/20/03/partner/services.jpg</img_src>
 		<img_caption><![CDATA[Onboard Services]]></img_caption>
 		<class></class>
 	</tab>
 	
 	<video>
-		<title><![CDATA[videoTitle]]></title>
-		<lead><![CDATA[videoLead]]></lead>
-		<intro><![CDATA[videoIntro]]></intro>
+		<title><![CDATA[Regent Connects | #DreamingofSevenSeas]]></title>
+		<lead><![CDATA[To our loyal and valued guests, we miss you all so dearly. The places you’ve yet to visit, the faces that take you there, and many more unforgettable moments await. Until then, be well and stay safe.]]></lead>
+		<intro><![CDATA[]]></intro>
 		<embed><![CDATA[
-			<iframe width="560" height="315" src="https://www.youtube.com/embed/youtubeID?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-			<iframe src="https://player.vimeo.com/video/vimeoID?color=ed1940&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/N0mxWYOFhO0?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 		]]></embed>
 	</video>
 </feature>
