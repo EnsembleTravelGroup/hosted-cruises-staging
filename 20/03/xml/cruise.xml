@@ -122,7 +122,7 @@
 		<tax_ca><![CDATA[]]></tax_ca>
 		<currency_ca><![CDATA[CAD]]></currency_ca>
 		
-		<lead><![CDATA[cruiseLead]]></lead>
+		<lead><![CDATA[]]></lead>
 		<intro><![CDATA[  ]]></intro>
 		
 		<tab tab_id="02">
