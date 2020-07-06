@@ -3,7 +3,7 @@
 	<cruise issue="2003" cruise_id="01" type="featured">
 		<cruise_id><![CDATA[01]]></cruise_id>
 		<supplier_id><![CDATA[reg]]></supplier_id>
-		<supplier_name><![CDATA[Regent Seven Seas Cruises]]></supplier_name>
+		<supplier_name><![CDATA[Regent Seven Seas Cruises®]]></supplier_name>
 		
 		<title><![CDATA[Wonders of the Ancient World]]></title>
 		<ship><![CDATA[Seven Seas Mariner®]]></ship>
@@ -101,10 +101,10 @@
 	<cruise issue="2003" cruise_id="02" type="featured">
 		<cruise_id><![CDATA[02]]></cruise_id>
 		<supplier_id><![CDATA[reg]]></supplier_id>
-		<supplier_name><![CDATA[Regent Seven Seas Cruises]]></supplier_name>
+		<supplier_name><![CDATA[Regent Seven Seas Cruises®]]></supplier_name>
 		
 		<title><![CDATA[Glamorous Summer]]></title>
-		<ship><![CDATA[Seven Seas Voyager]]></ship>
+		<ship><![CDATA[Seven Seas Voyager™]]></ship>
 		<category><![CDATA[H - Deluxe Veranda Suite]]></category>
 		<pricing><![CDATA[Pricing is per person based on double occupancy and subject to change and availability; please contact us for details.]]></pricing>
 		
@@ -196,10 +196,10 @@
 	<cruise issue="2003" cruise_id="03" type="featured">
 		<cruise_id><![CDATA[03]]></cruise_id>
 		<supplier_id><![CDATA[reg]]></supplier_id>
-		<supplier_name><![CDATA[Regent Seven Seas Cruises]]></supplier_name>
+		<supplier_name><![CDATA[Regent Seven Seas Cruises®]]></supplier_name>
 		
 		<title><![CDATA[Imperial Elegance]]></title>
-		<ship><![CDATA[Seven Seas Splendor®]]></ship>
+		<ship><![CDATA[Seven Seas Splendor]]></ship>
 		<category><![CDATA[H – Veranda Suite]]></category>
 		<pricing><![CDATA[Pricing is per person based on double occupancy and subject to change and availability; please contact us for details.]]></pricing>
 		
