@@ -4,7 +4,6 @@
     <list default="true" id="66283bb2-ebcb-4736-a305-c89e2fb89df4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/20/03/xml/cruise.xml" beforeDir="false" afterPath="$PROJECT_DIR$/20/03/xml/cruise.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20/03/xml/partner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/20/03/xml/partner.xml" afterDir="false" />
     </list>
     <list id="7c977374-b09b-4b65-9116-b3ad7f3d7311" name="DO NOT COMMIT" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +58,8 @@
       <workItem from="1593728691114" duration="308000" />
       <workItem from="1593748450876" duration="498000" />
       <workItem from="1593781611746" duration="1532000" />
-      <workItem from="1594054566202" duration="1202000" />
+      <workItem from="1594054566202" duration="1875000" />
+      <workItem from="1594083330797" duration="1070000" />
     </task>
     <task id="LOCAL-00001" summary="*Refactoring directories">
       <created>1593204148998</created>
@@ -187,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594054624070</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="*Updating cruise.xml for July Hosted Cruises">
+      <created>1594062979708</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1594062979708</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,7 +203,6 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="*Refactoring directories" />
     <MESSAGE value="*Adding xml and images for July Hosted Cruises" />
-    <MESSAGE value="*Updating cruise.xml for July Hosted Cruises" />
     <MESSAGE value="*Updating cruise.xml and images for July Hosted Cruises" />
     <MESSAGE value="*Adding embarkation/disembarkation ports for July Hosted Cruises" />
     <MESSAGE value="*Adding featured cruises xml for July Hosted Cruises" />
@@ -208,7 +214,8 @@
     <MESSAGE value="*Adding featured partner images for July Hosted Cruises *Updating cruise xml for July Hosted Cruises" />
     <MESSAGE value="*Adding featured partner images for July Hosted Cruises" />
     <MESSAGE value="*Removing duplicate port on cruise.xml for July Hosted Cruises" />
-    <option name="LAST_COMMIT_MESSAGE" value="*Removing duplicate port on cruise.xml for July Hosted Cruises" />
+    <MESSAGE value="*Updating cruise.xml for July Hosted Cruises" />
+    <option name="LAST_COMMIT_MESSAGE" value="*Updating cruise.xml for July Hosted Cruises" />
   </component>
   <component name="WindowStateProjectService">
     <state x="723" y="388" key="#Notifications" timestamp="1593205052398">
@@ -219,11 +226,11 @@
       <screen x="0" y="23" width="1680" height="990" />
     </state>
     <state x="304" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.990@0.23.1680.990" timestamp="1593204394295" />
-    <state x="322" y="110" key="CommitChangelistDialog2" timestamp="1594054623763">
+    <state x="322" y="110" key="CommitChangelistDialog2" timestamp="1594062979009">
       <screen x="0" y="23" width="1680" height="990" />
     </state>
     <state x="322" y="110" key="CommitChangelistDialog2/0.23.1680.989@0.23.1680.989" timestamp="1593551662040" />
-    <state x="322" y="110" key="CommitChangelistDialog2/0.23.1680.990@0.23.1680.990" timestamp="1594054623763" />
+    <state x="322" y="110" key="CommitChangelistDialog2/0.23.1680.990@0.23.1680.990" timestamp="1594062979009" />
     <state x="506" y="245" key="RollbackChangesDialog" timestamp="1593204531302">
       <screen x="0" y="23" width="1680" height="990" />
     </state>
@@ -236,10 +243,10 @@
       <screen x="0" y="23" width="1680" height="990" />
     </state>
     <state x="678" y="394" key="VCS.EditChangelistDialog/0.23.1680.990@0.23.1680.990" timestamp="1593438875657" />
-    <state x="440" y="258" key="Vcs.Push.Dialog.v2" timestamp="1594054628862">
+    <state x="440" y="258" key="Vcs.Push.Dialog.v2" timestamp="1594062981555">
       <screen x="0" y="23" width="1680" height="990" />
     </state>
     <state x="440" y="258" key="Vcs.Push.Dialog.v2/0.23.1680.989@0.23.1680.989" timestamp="1593551666337" />
-    <state x="440" y="258" key="Vcs.Push.Dialog.v2/0.23.1680.990@0.23.1680.990" timestamp="1594054628862" />
+    <state x="440" y="258" key="Vcs.Push.Dialog.v2/0.23.1680.990@0.23.1680.990" timestamp="1594062981555" />
   </component>
 </project>

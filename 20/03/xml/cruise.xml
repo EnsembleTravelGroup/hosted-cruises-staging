@@ -357,12 +357,13 @@
 			<icon>plus-circle</icon>
 			<content><![CDATA[
 				<ul>
-					<li>Acclaimed dining in up to ten elegant venues, including Nobu Matsuhisa&rsquo;s only sea-going restaurants. </li>
-					<li>Complimentary 24-hour Room Service</li>
-					<li>Fully equipped Fitness Center and Crystal Life Spa</li>
-					<li>Complimentary men&rsquo;s and women&rsquo;s steam and sauna</li>
-					<li>Crystal Visions Enrichment Series, featuring interactive and engaging presentations from leading world experts, celebrities, authors and ambassadors.</li>
-					<li>Enrichment through the innovative Creative Learning Institute and Computer University@Sea with classes from photography to digital filmmaking to world languages and art.</li>
+					<li>Michelin-Inspired Cuisine in up to ten dining venues plus 24-hour in-suite dining</li>
+					<li>Specialty Dining including Umi Uma by Chef Nobu</li>
+					<li>Fully Equipped Fitness Center and Crystal Life Spa</li>
+					<li>Ocean Views - Lively, engaging and interactive, Ocean Views will feature on-board lecturers to debate current events and global issues</li>
+					<li>Crystal Visions Enrichment Series, featuring interactive and engaging presentations from leading world experts, celebrities, authors and ambassadors</li>
+					<li>Enrichment through the innovative Creative Learning Institute and Computer University@Sea with classes from photography to digital filmmaking to world languages and art</li>
+					<li>Nightly Entertainment</li>
 				</ul>
 			]]></content>
 			<class><![CDATA[]]></class>
@@ -375,10 +376,12 @@
 			<icon>check-circle</icon>
 			<content><![CDATA[
 				<ul>
-					<li>Unlimited fine wines, premium spirits and champagne</li>
-					<li>FREE unlimited Wi-Fi</li>
-					<li>All gratuities for housekeeping, bar and dining staff throughout the ship</li>
+					<li>Open Bars and Lounges with complimentary fine wines, champagnes, spirits &amp; specialty coffees</li>
+					<li>Complimentary Unlimited Wi-Fi</li>
+					<li>Pre-paid Gratuities for housekeeping, bar and dining staff throughout the ship</li>
 					<li>Complimentary Wellness programs with classes in yoga mat Pilates and Spinning, PGA golf instruction</li>
+					<li>Complimentary 24-hour Room Service</li>
+					<li>Complimentary men&rsquo;s and women&rsquo;s steam and sauna</li>
 				</ul>
 			]]></content>
 			<class><![CDATA[]]></class>
